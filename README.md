@@ -1,1 +1,1 @@
-# Awesome-Knowledge-Enhanced-Representation-Learning
+# Awesome Knowledge-Enhanced Representation Learning
