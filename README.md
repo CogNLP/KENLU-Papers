@@ -12,7 +12,6 @@
 - Event Representation Learning Enhanced with External Commonsense Knowledge, at EMNLP 2019.\[[pdf](https://aclanthology.org/D19-1495.pdf)\]
 
 ## Knowledge-Enhanced Text Classification
-
 + KinGDOM: Knowledge-Guided DOMain adaptation for sentiment analysis, at ACL 2020. [[pdf](https://aclanthology.org/2020.acl-main.292.pdf)]
 
 
@@ -22,7 +21,11 @@
 - Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.376.pdf)]
 - KenMeSH: Knowledge-enhanced End-to-end Biomedical Text Labelling, on arXiv 2022. [[pdf](https://arxiv.org/pdf/2203.06835.pdf)]
 - Fine-grained Information Extraction from Biomedical Literature based on Knowledge-enriched Abstract Meaning Representation, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.489.pdf)]
--  Joint Biomedical Entity and Relation Extraction with Knowledge-Enhanced Collective Inference, on arXiv 2021. [[pdf](https://arxiv.org/pdf/2105.13456.pdf)]
+Joint Biomedical Entity and Relation Extraction with Knowledge-Enhanced Collective Inference, on arXiv 2021. [[pdf](https://arxiv.org/pdf/2105.13456.pdf)]
+- KenMeSH: Knowledge-enhanced End-to-end Biomedical Text Labelling[[pdf](https://arxiv.org/pdf/2203.06835.pdf)]
+## Knowledge-Enhanced Information Extraction
+- Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks, at ACL 2021.  [[pdf](https://aclanthology.org/2021.acl-long.376.pdf)]
+- Fine-grained Information Extraction from Biomedical Literature based on Knowledge-enriched Abstract Meaning Representation, at ACL 2021.  [[pdf](https://aclanthology.org/2021.acl-long.489.pdf)]
 ## Knowledge-Enhanced Information Retrieval
 - Knowledge Enhanced Hybrid Neural Network for Text Matching[[pdf](https://openreview.net/forum?id=ryZBFeZ_-H)]
 - LET: Linguistic Knowledge Enhanced Graph Transformer for Chinese Short Text Matching[[pdf](https://arxiv.org/pdf/2102.12671.pdf)]
