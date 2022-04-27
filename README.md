@@ -15,14 +15,6 @@
 + KinGDOM: Knowledge-Guided DOMain adaptation for sentiment analysis, at ACL 2020. [[pdf](https://aclanthology.org/2020.acl-main.292.pdf)]
 + KenMeSH: Knowledge-enhanced End-to-end Biomedical Text Labelling, on arXiv 2022. [[pdf](https://arxiv.org/pdf/2203.06835.pdf)]
 
-
-## Knowledge-Enhanced Information Extraction
-
-
-- Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.376.pdf)]
-- Fine-grained Information Extraction from Biomedical Literature based on Knowledge-enriched Abstract Meaning Representation, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.489.pdf)]
-Joint Biomedical Entity and Relation Extraction with Knowledge-Enhanced Collective Inference, on arXiv 2021. [[pdf](https://arxiv.org/pdf/2105.13456.pdf)]
-- KenMeSH: Knowledge-enhanced End-to-end Biomedical Text Labelling[[pdf](https://arxiv.org/pdf/2203.06835.pdf)]
 ## Knowledge-Enhanced Information Extraction
 - Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks, at ACL 2021.  [[pdf](https://aclanthology.org/2021.acl-long.376.pdf)]
 - Fine-grained Information Extraction from Biomedical Literature based on Knowledge-enriched Abstract Meaning Representation, at ACL 2021.  [[pdf](https://aclanthology.org/2021.acl-long.489.pdf)]
