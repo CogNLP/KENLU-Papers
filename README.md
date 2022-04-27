@@ -9,10 +9,10 @@
 - [Knowledge Enhanced Contextual Word Representations](https://arxiv.org/abs/1909.04164)
 - [Event Representation Learning Enhanced with External Commonsense Knowledge](https://aclanthology.org/D19-1495.pdf)
 ## Knowledge-Enhanced Text Classification
+- [KenMeSH: Knowledge-enhanced End-to-end Biomedical Text Labelling](https://arxiv.org/pdf/2203.06835.pdf)
 ## Knowledge-Enhanced Information Extraction
 - [Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks  ](https://aclanthology.org/2021.acl-long.376.pdf)
 - [Fine-grained Information Extraction from Biomedical Literature based on Knowledge-enriched Abstract Meaning Representation](https://aclanthology.org/2021.acl-long.489.pdf)
-- [KenMeSH: Knowledge-enhanced End-to-end Biomedical Text Labelling](https://arxiv.org/pdf/2203.06835.pdf)
 ## Knowledge-Enhanced Information Retrieval
 - [Knowledge Enhanced Hybrid Neural Network for Text Matching](https://openreview.net/forum?id=ryZBFeZ_-H)
 - [LET: Linguistic Knowledge Enhanced Graph Transformer for Chinese Short Text Matching](https://arxiv.org/pdf/2102.12671.pdf)
