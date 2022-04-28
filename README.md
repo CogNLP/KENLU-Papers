@@ -20,6 +20,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + **[Commonsense Knowledge]** Align, Mask and Select: A Simple Method for Incorporating Commonsense Knowledge into Language Representation Models, on arXiv 2020. \[[pdf](https://arxiv.org/pdf/1908.06725.pdf)\]
 
 ## Knowledge-Enhanced Text Representation
+- **[Survey]** Relational World Knowledge Representation in Contextual Language Models: A Review, at EMNLP 2021. \[[pdf](https://aclanthology.org/2021.emnlp-main.81.pdf)\]
 - Incorporating Extra Knowledge to Enhance Word Embedding, at IJCAI 2021. \[[pdf](https://www.ijcai.org/proceedings/2020/0686.pdf)\]
 - **[Entity Knowledge]** LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention, at EMNLP 2020. \[[pdf](https://aclanthology.org/2020.emnlp-main.523.pdf)\]
 - Knowledge Enhanced Contextual Word Representations, at EMNLP 2019. \[[pdf](https://aclanthology.org/D19-1005.pdf)\]
@@ -52,6 +53,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition, at EMNLP 2020. [[pdf](https://aclanthology.org/2020.emnlp-main.372.pdf)]
 
 ## Other Related Projects
+- **[Survey]** **[Prompt]** Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing, on arXiv 2021. [[pdf](https://arxiv.org/pdf/2107.13586.pdf)]
 - Knowledge-enriched Text Generation Survey, Tutorial and Reading, on github. [[home](https://github.com/wyu97/KENLG-Reading)]
 - A Survey of Knowledge-Enhanced Text Generation, on arXiv 2020. [[pdf](https://arxiv.org/pdf/2010.04389.pdf)]
 
