@@ -29,6 +29,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classification, at ACL 2022. [[pdf](https://arxiv.org/pdf/2108.02035.pdf)]
 + KenMeSH: Knowledge-enhanced End-to-end Biomedical Text Labelling, on arXiv 2022. [[pdf](https://arxiv.org/pdf/2203.06835.pdf)]
 + KESA: A Knowledge Enhanced Approach For Sentiment Analysis, on arXiv 2022. \[[pdf](https://arxiv.org/pdf/2202.12093.pdf)\]
++ **[Entity Knowledge]**  **[Fact Verification]** Modeling Entity Knowledge for Fact Verification, at FEVER 2021. [[pdf](https://aclanthology.org/2021.fever-1.6.pdf)]
 + Knowledge-Guided Paraphrase Identification, at EMNLP findings 2021. [[pdf](https://aclanthology.org/2021.findings-emnlp.72.pdf)]
 + KinGDOM: Knowledge-Guided DOMain adaptation for sentiment analysis, at ACL 2020. [[pdf](https://aclanthology.org/2020.acl-main.292.pdf)]
 
