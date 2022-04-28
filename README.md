@@ -8,7 +8,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 
 + Attention is All you Need, at NeurIPS 2017. \[[pdf](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)\]
 + BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, on arXiv 2019. \[[pdf](https://arxiv.org/pdf/1810.04805.pdf)\]
-+ SpanBERT: Improving Pre-training by Representing and Predicting Spans, on TACL 2020. \[[pdf](https://watermark.silverchair.com/tacl_a_00300.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAswwggLIBgkqhkiG9w0BBwagggK5MIICtQIBADCCAq4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMJSdEoxhDp2Vfkr4iAgEQgIICf3hP52SfBNJNCTxJA-VRo3ExIlGOLIddPfSj3IcpRWHHerFFqRl-orIB1rTw9CnQtr7OTZ-9JtUg0ut9qyj68gIut_7Atb8SU-rjzLGkeh2j0qpvYNzXOyJIdY-6d6E0zwWt1JPyV2G3fUIUfEtPRj0jl5ZfvyqdIq-nQG2eQM8L6A5y3mVsZx3LqNvNJSupvajaR9FmpyjWtgByta-dCnOahgnmuMGxFiPWqeYNrtawb18DycLI1bXwUHIMEvjrFUT1A_ouu7yvYovl8HQspQV-S2-Gl_RDwQ_wSSXgZznNiAaEva3C9Ajl7ZLJH3HXNUw3HQJSoBcntQmhWrylC-HIJ3BxSg5SfC9V4fhMY7ZzGkNKVOB0N6mziE-iBl57K8kezvcgPyACF9SDNNbgp3TO3CCN75etIdEMXSVpV17Ehut_HdK77lAfUcxspKE3KnRWsOfdh477xYdw-I5RVoSEtNtimj_YVw7KHGbEgBzZyMamqxhnqseElBoPOPpj67BX4NeN6kKteH1c4fzD00rDr834KYi5hi_5bXwxKCkc_nDBPdQp-3YolCGz5Z2WkEFj187JlkaftqJNf_NVhxYf1WTANc-7k5wMMXJlC-KNR60mieHWoCHQZIlwBuPQq-oI055JcGI4yI91objvBvCH8BOSYdACbnlGR_wsZxxfCFaNcYqaMqVY1t5OZFxqY2Q5ACRwzYu19GjFE-jPfXhGW84PF-NqsVpKJbJxywKfseHEpi8m86rP-eObzAlBiplhD9s9zkjy0pbM0P-ab5A2dOruqN1A_XDMOoKqEiKJIb_gbmaNHfk61HvzU4ZY3H8wDwsWQIRJRkaoJEBbLw)\]
++ SpanBERT: Improving Pre-training by Representing and Predicting Spans, at TACL 2020. \[[pdf](https://watermark.silverchair.com/tacl_a_00300.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAswwggLIBgkqhkiG9w0BBwagggK5MIICtQIBADCCAq4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMJSdEoxhDp2Vfkr4iAgEQgIICf3hP52SfBNJNCTxJA-VRo3ExIlGOLIddPfSj3IcpRWHHerFFqRl-orIB1rTw9CnQtr7OTZ-9JtUg0ut9qyj68gIut_7Atb8SU-rjzLGkeh2j0qpvYNzXOyJIdY-6d6E0zwWt1JPyV2G3fUIUfEtPRj0jl5ZfvyqdIq-nQG2eQM8L6A5y3mVsZx3LqNvNJSupvajaR9FmpyjWtgByta-dCnOahgnmuMGxFiPWqeYNrtawb18DycLI1bXwUHIMEvjrFUT1A_ouu7yvYovl8HQspQV-S2-Gl_RDwQ_wSSXgZznNiAaEva3C9Ajl7ZLJH3HXNUw3HQJSoBcntQmhWrylC-HIJ3BxSg5SfC9V4fhMY7ZzGkNKVOB0N6mziE-iBl57K8kezvcgPyACF9SDNNbgp3TO3CCN75etIdEMXSVpV17Ehut_HdK77lAfUcxspKE3KnRWsOfdh477xYdw-I5RVoSEtNtimj_YVw7KHGbEgBzZyMamqxhnqseElBoPOPpj67BX4NeN6kKteH1c4fzD00rDr834KYi5hi_5bXwxKCkc_nDBPdQp-3YolCGz5Z2WkEFj187JlkaftqJNf_NVhxYf1WTANc-7k5wMMXJlC-KNR60mieHWoCHQZIlwBuPQq-oI055JcGI4yI91objvBvCH8BOSYdACbnlGR_wsZxxfCFaNcYqaMqVY1t5OZFxqY2Q5ACRwzYu19GjFE-jPfXhGW84PF-NqsVpKJbJxywKfseHEpi8m86rP-eObzAlBiplhD9s9zkjy0pbM0P-ab5A2dOruqN1A_XDMOoKqEiKJIb_gbmaNHfk61HvzU4ZY3H8wDwsWQIRJRkaoJEBbLw)\]
 
 ## KENLU Survey
 - Does Knowledge Help General NLU? An Empirical Study, on arXiv 2021. [[pdf](https://arxiv.org/pdf/2109.00563.pdf)]
@@ -16,11 +16,12 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 ## Knowledge-Enhanced Pre-training
 + **[Survey]** A Survey of Knowledge Enhanced Pre-trained Models, on arXiv 2022. \[[pdf](https://arxiv.org/pdf/2110.00269.pdf)\]
 + **[Survey]** Knowledge Enhanced Pretrained Language Models: A Compreshensive Survey, on arXiv 2021. \[[pdf](https://arxiv.org/pdf/2110.08455.pdf)\]
++ **[Survey]** Relational World Knowledge Representation in Contextual Language Models: A Review, at EMNLP 2021. \[[pdf](https://aclanthology.org/2021.emnlp-main.81.pdf)\]
++ **[Survey]** Combining pre-trained language models and structured knowledge, on arXiv 2021. \[[pdf](https://arxiv.org/pdf/2101.12294.pdf)\]
 + Dict-BERT: Enhancing Language Model Pre-training with Dictionary, on arXiv 2022. \[[pdf](https://arxiv.org/pdf/2110.06490.pdf)\]
 + **[Commonsense Knowledge]** Align, Mask and Select: A Simple Method for Incorporating Commonsense Knowledge into Language Representation Models, on arXiv 2020. \[[pdf](https://arxiv.org/pdf/1908.06725.pdf)\]
 
 ## Knowledge-Enhanced Text Representation
-- **[Survey]** Relational World Knowledge Representation in Contextual Language Models: A Review, at EMNLP 2021. \[[pdf](https://aclanthology.org/2021.emnlp-main.81.pdf)\]
 - Incorporating Extra Knowledge to Enhance Word Embedding, at IJCAI 2021. \[[pdf](https://www.ijcai.org/proceedings/2020/0686.pdf)\]
 - **[Entity Knowledge]** LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention, at EMNLP 2020. \[[pdf](https://aclanthology.org/2020.emnlp-main.523.pdf)\]
 - Knowledge Enhanced Contextual Word Representations, at EMNLP 2019. \[[pdf](https://aclanthology.org/D19-1005.pdf)\]
