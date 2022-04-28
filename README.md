@@ -10,6 +10,8 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, on arXiv 2019. \[[pdf](https://arxiv.org/pdf/1810.04805.pdf)\]
 + SpanBERT: Improving Pre-training by Representing and Predicting Spans, on TACL 2020. \[[pdf](https://watermark.silverchair.com/tacl_a_00300.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAswwggLIBgkqhkiG9w0BBwagggK5MIICtQIBADCCAq4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMJSdEoxhDp2Vfkr4iAgEQgIICf3hP52SfBNJNCTxJA-VRo3ExIlGOLIddPfSj3IcpRWHHerFFqRl-orIB1rTw9CnQtr7OTZ-9JtUg0ut9qyj68gIut_7Atb8SU-rjzLGkeh2j0qpvYNzXOyJIdY-6d6E0zwWt1JPyV2G3fUIUfEtPRj0jl5ZfvyqdIq-nQG2eQM8L6A5y3mVsZx3LqNvNJSupvajaR9FmpyjWtgByta-dCnOahgnmuMGxFiPWqeYNrtawb18DycLI1bXwUHIMEvjrFUT1A_ouu7yvYovl8HQspQV-S2-Gl_RDwQ_wSSXgZznNiAaEva3C9Ajl7ZLJH3HXNUw3HQJSoBcntQmhWrylC-HIJ3BxSg5SfC9V4fhMY7ZzGkNKVOB0N6mziE-iBl57K8kezvcgPyACF9SDNNbgp3TO3CCN75etIdEMXSVpV17Ehut_HdK77lAfUcxspKE3KnRWsOfdh477xYdw-I5RVoSEtNtimj_YVw7KHGbEgBzZyMamqxhnqseElBoPOPpj67BX4NeN6kKteH1c4fzD00rDr834KYi5hi_5bXwxKCkc_nDBPdQp-3YolCGz5Z2WkEFj187JlkaftqJNf_NVhxYf1WTANc-7k5wMMXJlC-KNR60mieHWoCHQZIlwBuPQq-oI055JcGI4yI91objvBvCH8BOSYdACbnlGR_wsZxxfCFaNcYqaMqVY1t5OZFxqY2Q5ACRwzYu19GjFE-jPfXhGW84PF-NqsVpKJbJxywKfseHEpi8m86rP-eObzAlBiplhD9s9zkjy0pbM0P-ab5A2dOruqN1A_XDMOoKqEiKJIb_gbmaNHfk61HvzU4ZY3H8wDwsWQIRJRkaoJEBbLw)\]
 
+## KENLU Survey
+- Does Knowledge Help General NLU? An Empirical Study, on arXiv 2021. [[pdf](https://arxiv.org/pdf/2109.00563.pdf)]
 
 ## Knowledge-Enhanced Pre-training
 + **[Survey]** A Survey of Knowledge Enhanced Pre-trained Models, on arXiv 2022. \[[pdf](https://arxiv.org/pdf/2110.00269.pdf)\]
@@ -52,5 +54,4 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 ## Other Related Projects
 - Knowledge-enriched Text Generation Survey, Tutorial and Reading, on github. [[home](https://github.com/wyu97/KENLG-Reading)]
 - A Survey of Knowledge-Enhanced Text Generation, on arXiv 2020. [[pdf](https://arxiv.org/pdf/2010.04389.pdf)]
-- Does Knowledge Help General NLU? An Empirical Study, on arXiv 2021. [[pdf](https://arxiv.org/pdf/2109.00563.pdf)]
 
