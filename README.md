@@ -14,6 +14,7 @@
 ## Knowledge-Enhanced Text Classification
 + KinGDOM: Knowledge-Guided DOMain adaptation for sentiment analysis, at ACL 2020. [[pdf](https://aclanthology.org/2020.acl-main.292.pdf)]
 + KenMeSH: Knowledge-enhanced End-to-end Biomedical Text Labelling, on arXiv 2022. [[pdf](https://arxiv.org/pdf/2203.06835.pdf)]
++ Knowledge-Guided Paraphrase Identification , at EMNLP findings 2021. [[pdf](https://aclanthology.org/2021.findings-emnlp.72.pdf)]
 
 ## Knowledge-Enhanced Information Extraction
 - Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks, at ACL 2021.  [[pdf](https://aclanthology.org/2021.acl-long.376.pdf)]
@@ -22,6 +23,7 @@
 - Knowledge Enhanced Hybrid Neural Network for Text Matching[[pdf](https://openreview.net/forum?id=ryZBFeZ_-H)]
 - LET: Linguistic Knowledge Enhanced Graph Transformer for Chinese Short Text Matching[[pdf](https://arxiv.org/pdf/2102.12671.pdf)]
 - Learning Unsupervised Knowledge-Enhanced Representations to Reduce the Semantic Gap in Information Retrieval, at TIOS 2020. [[pdf](https://dl.acm.org/doi/abs/10.1145/3417996)]
+-  Enhanced Language Representation with Label Knowledge for Span Extraction, at EMNLP 2021. [[pdf](https://aclanthology.org/2021.emnlp-main.379.pdf)] 
 ## Knowledge-Enhanced Question Answering
 
 + Unstructured Text Enhanced Open-Domain Dialogue System: A Systematic Survey, at TOIS 2022. [[pdf](https://dl.acm.org/doi/abs/10.1145/3464377?casa_token=y4ngVLYx2WsAAAAA:mu1ibata4LRdqibfIQ0iyecpzA5gEdz7WJYoLOFebukQg7mPvU5GDTaZz9GfL7Ce5PuGgnY9_67sVQ)]
