@@ -46,6 +46,6 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 
 ## Other Related Projects
 - Knowledge-enriched Text Generation Survey, Tutorial and Reading, on github. [[home](https://github.com/wyu97/KENLG-Reading)]
-- A Survey of Knowledge-Enhanced Text Generation, on arXiv 2020.[[pdf](https://arxiv.org/pdf/2010.04389.pdf)]
+- A Survey of Knowledge-Enhanced Text Generation, on arXiv 2020. [[pdf](https://arxiv.org/pdf/2010.04389.pdf)]
 - Does Knowledge Help General NLU? An Empirical Study, on arXiv 2021. [[pdf](https://arxiv.org/pdf/2109.00563.pdf)]
 
