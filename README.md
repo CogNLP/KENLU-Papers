@@ -12,9 +12,9 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 
 ## Knowledge-Enhanced Pre-training
 
-+ Knowledge Enhanced Pretrained Language Models: A Compreshensive Survey, on arXiv 2021. \[[pdf](https://arxiv.org/pdf/2110.08455.pdf)\]
-+ A Survey of Knowledge Enhanced Pre-trained Models, on arXiv 2022. \[[pdf](https://arxiv.org/pdf/2110.00269.pdf)\]
-+ Align, Mask and Select: A Simple Method for Incorporating Commonsense Knowledge into Language Representation Models, on arXiv 2020. \[[pdf](https://arxiv.org/pdf/1908.06725.pdf)\]
++ **[Survey]** Knowledge Enhanced Pretrained Language Models: A Compreshensive Survey, on arXiv 2021. \[[pdf](https://arxiv.org/pdf/2110.08455.pdf)\]
++ **[Survey]** A Survey of Knowledge Enhanced Pre-trained Models, on arXiv 2022. \[[pdf](https://arxiv.org/pdf/2110.00269.pdf)\]
++ **[Commonsense Knowledge]** Align, Mask and Select: A Simple Method for Incorporating Commonsense Knowledge into Language Representation Models, on arXiv 2020. \[[pdf](https://arxiv.org/pdf/1908.06725.pdf)\]
 + Dict-BERT: Enhancing Language Model Pre-training with Dictionary, on arXiv 2022. \[[pdf](https://arxiv.org/pdf/2110.06490.pdf)\]
 
 ## Knowledge-Enhanced Text Representation
