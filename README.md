@@ -52,6 +52,9 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 - Learning Unsupervised Knowledge-Enhanced Representations to Reduce the Semantic Gap in Information Retrieval, at TIOS 2020. [[pdf](https://dl.acm.org/doi/abs/10.1145/3417996)]
 - Knowledge Enhanced Hybrid Neural Network for Text Matching, at AAAI 2018. [[pdf](https://openreview.net/forum?id=ryZBFeZ_-H)]
 
+## Knowledge-Enhanced Machine Reading Comprehension
++ Machine Reading Comprehension Using Structural Knowledge Graph-aware Network, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1602.pdf)]
+
 ## Knowledge-Enhanced Question Answering
 + Unstructured Text Enhanced Open-Domain Dialogue System: A Systematic Survey, at TOIS 2022. [[pdf](https://dl.acm.org/doi/abs/10.1145/3464377?casa_token=y4ngVLYx2WsAAAAA:mu1ibata4LRdqibfIQ0iyecpzA5gEdz7WJYoLOFebukQg7mPvU5GDTaZz9GfL7Ce5PuGgnY9_67sVQ)]
 + Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition, at EMNLP 2020. [[pdf](https://aclanthology.org/2020.emnlp-main.372.pdf)]
