@@ -22,8 +22,9 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + **[Commonsense Knowledge]** Align, Mask and Select: A Simple Method for Incorporating Commonsense Knowledge into Language Representation Models, on arXiv 2020. \[[pdf](https://arxiv.org/pdf/1908.06725.pdf)\]
 
 ## Knowledge-Enhanced Text Representation
+- **[Event Representation]** GENE: Global Event Network Embedding, at TextGraphs 2021. \[[pdf](https://aclanthology.org/2021.textgraphs-1.5.pdf)\]
 - Incorporating Extra Knowledge to Enhance Word Embedding, at IJCAI 2021. \[[pdf](https://www.ijcai.org/proceedings/2020/0686.pdf)\]
-- **[Entity Knowledge]** LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention, at EMNLP 2020. \[[pdf](https://aclanthology.org/2020.emnlp-main.523.pdf)\]
+- **[Entity Representation]** LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention, at EMNLP 2020. \[[pdf](https://aclanthology.org/2020.emnlp-main.523.pdf)\]
 - Breaking Through the 80% Glass Ceiling: Raising the State of the Art in Word Sense Disambiguation by Incorporating Knowledge Graph Information, at ACL 2020. [[pdf](https://aclanthology.org/2020.acl-main.255.pdf)]
 - Knowledge Enhanced Contextual Word Representations, at EMNLP 2019. \[[pdf](https://aclanthology.org/D19-1005.pdf)\]
 - Event Representation Learning Enhanced with External Commonsense Knowledge, at EMNLP 2019. \[[pdf](https://aclanthology.org/D19-1495.pdf)\]
