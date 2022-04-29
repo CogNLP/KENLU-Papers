@@ -42,6 +42,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 - Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.376.pdf)]
 - Fine-grained Information Extraction from Biomedical Literature based on Knowledge-enriched Abstract Meaning Representation, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.489.pdf)]
 - Joint Biomedical Entity and Relation Extraction with Knowledge-Enhanced Collective Inference, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.488.pdf)]
+- Metadata Shaping: Natural Language Annotations for the Tail, on arXiv 2021. [[pdf](https://arxiv.org/pdf/2110.08430.pdf)]
 - Knowledge Enhanced Event Causality Identification with Mention Masking Generalizations, at IJCAI 2020. [[pdf](https://www.ijcai.org/proceedings/2020/0499.pdf)] 
 
 ## Knowledge-Enhanced Information Retrieval
