@@ -46,9 +46,11 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 - Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.376.pdf)]
 - Fine-grained Information Extraction from Biomedical Literature based on Knowledge-enriched Abstract Meaning Representation, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.489.pdf)]
 - Joint Biomedical Entity and Relation Extraction with Knowledge-Enhanced Collective Inference, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.488.pdf)]
-- Adaptive Knowledge-Enhanced Bayesian Meta-Learning for Few-shot Event Detection, at ACL findings 2021. [[pdf](https://aclanthology.org/2021.findings-acl.214.pdf)]
+- **[Event Detection]** Adaptive Knowledge-Enhanced Bayesian Meta-Learning for Few-shot Event Detection, at ACL findings 2021. [[pdf](https://aclanthology.org/2021.findings-acl.214.pdf)]
 - Metadata Shaping: Natural Language Annotations for the Tail, on arXiv 2021. [[pdf](https://arxiv.org/pdf/2110.08430.pdf)]
-- Knowledge Enhanced Event Causality Identification with Mention Masking Generalizations, at IJCAI 2020. [[pdf](https://www.ijcai.org/proceedings/2020/0499.pdf)] 
+- **[Event Causality Identification]** Knowledge Enhanced Event Causality Identification with Mention Masking Generalizations, at IJCAI 2020. [[pdf](https://www.ijcai.org/proceedings/2020/0499.pdf)] 
+- **[Named Entity Recognition]** Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1396.pdf)] 
+- **[Relation Extraction]** Improving Relation Extraction with Knowledge-attention, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1022.pdf)] 
 
 ## Knowledge-Enhanced Information Retrieval
 - LET: Linguistic Knowledge Enhanced Graph Transformer for Chinese Short Text Matching, at AAAI 2021. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/17592)]
@@ -61,6 +63,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 ## Knowledge-Enhanced Question Answering
 + Unstructured Text Enhanced Open-Domain Dialogue System: A Systematic Survey, at TOIS 2022. [[pdf](https://dl.acm.org/doi/abs/10.1145/3464377?casa_token=y4ngVLYx2WsAAAAA:mu1ibata4LRdqibfIQ0iyecpzA5gEdz7WJYoLOFebukQg7mPvU5GDTaZz9GfL7Ce5PuGgnY9_67sVQ)]
 + Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition, at EMNLP 2020. [[pdf](https://aclanthology.org/2020.emnlp-main.372.pdf)]
++ Knowledge-aware Attentive Neural Network for Ranking Question Answer Pairs, at SIGIR 2018. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3209978.3210081)]
 
 ## Other Related Projects
 - **[Survey]** **[Prompt]** Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing, on arXiv 2021. [[pdf](https://arxiv.org/pdf/2107.13586.pdf)]
