@@ -46,7 +46,9 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 - Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.376.pdf)]
 - Fine-grained Information Extraction from Biomedical Literature based on Knowledge-enriched Abstract Meaning Representation, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.489.pdf)]
 - Joint Biomedical Entity and Relation Extraction with Knowledge-Enhanced Collective Inference, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.488.pdf)]
+- Lexicon Enhanced Chinese Sequence Labeling Using BERT Adapter, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.454v2.pdf)]
 - **[Event Detection]** Adaptive Knowledge-Enhanced Bayesian Meta-Learning for Few-shot Event Detection, at ACL findings 2021. [[pdf](https://aclanthology.org/2021.findings-acl.214.pdf)]
+- **[Named Entity Recognition]** Knowledge-aware Named Entity Recognition with Alleviating Heterogeneity, at AAAI 2021. [[pdf](https://www.aaai.org/AAAI21Papers/AAAI-9155.NieB.pdf)]
 - Metadata Shaping: Natural Language Annotations for the Tail, on arXiv 2021. [[pdf](https://arxiv.org/pdf/2110.08430.pdf)]
 - **[Event Causality Identification]** Knowledge Enhanced Event Causality Identification with Mention Masking Generalizations, at IJCAI 2020. [[pdf](https://www.ijcai.org/proceedings/2020/0499.pdf)] 
 - **[Named Entity Recognition]** Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1396.pdf)] 
@@ -54,8 +56,10 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 
 ## Knowledge-Enhanced Information Retrieval
 - LET: Linguistic Knowledge Enhanced Graph Transformer for Chinese Short Text Matching, at AAAI 2021. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/17592)]
+- **[Recommender System]** KRED: Knowledge-Aware Document Representation for News Recommendations, at RecSys 2020. [[pdf](https://arxiv.org/pdf/1910.11494.pdf)]
 - Learning Unsupervised Knowledge-Enhanced Representations to Reduce the Semantic Gap in Information Retrieval, at TIOS 2020. [[pdf](https://dl.acm.org/doi/abs/10.1145/3417996)]
 - Knowledge Enhanced Hybrid Neural Network for Text Matching, at AAAI 2018. [[pdf](https://openreview.net/forum?id=ryZBFeZ_-H)]
+- **[Recommender System]** DKN: Deep Knowledge-Aware Network for News Recommendation, at WWW 2018. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3178876.3186175)]
 
 ## Knowledge-Enhanced Machine Reading Comprehension
 + Machine Reading Comprehension Using Structural Knowledge Graph-aware Network, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1602.pdf)]
