@@ -26,9 +26,11 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 
 ## Knowledge-Enhanced Text Representation
 - **[Entity Representation]** mLUKE: The Power of Entity Representations in Multilingual Pretrained Language Models, at ACL 2022. \[[pdf](https://arxiv.org/pdf/2110.08151.pdf)\]
+- Biomedical Interpretable Entity Representations, at ACL findings 2021. \[[pdf](https://aclanthology.org/2021.findings-acl.311.pdf)\]
 - **[Event Representation]** GENE: Global Event Network Embedding, at TextGraphs 2021. \[[pdf](https://aclanthology.org/2021.textgraphs-1.5.pdf)\]
 - Incorporating Extra Knowledge to Enhance Word Embedding, at IJCAI 2021. \[[pdf](https://www.ijcai.org/proceedings/2020/0686.pdf)\]
 - **[Entity Representation]** LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention, at EMNLP 2020. \[[pdf](https://aclanthology.org/2020.emnlp-main.523.pdf)\]
+- Interpretable Entity Representations through Large-Scale Typing, at EMNLP findings 2020. \[[pdf](https://aclanthology.org/2020.findings-emnlp.54.pdf)\]
 - Breaking Through the 80% Glass Ceiling: Raising the State of the Art in Word Sense Disambiguation by Incorporating Knowledge Graph Information, at ACL 2020. [[pdf](https://aclanthology.org/2020.acl-main.255.pdf)]
 - Knowledge Enhanced Contextual Word Representations, at EMNLP 2019. \[[pdf](https://aclanthology.org/D19-1005.pdf)\]
 - **[Event Representation]** **[Commonsense Knowledge]** Event Representation Learning Enhanced with External Commonsense Knowledge, at EMNLP 2019. \[[pdf](https://aclanthology.org/D19-1495.pdf)\]
@@ -70,6 +72,12 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + Unstructured Text Enhanced Open-Domain Dialogue System: A Systematic Survey, at TOIS 2022. [[pdf](https://dl.acm.org/doi/abs/10.1145/3464377?casa_token=y4ngVLYx2WsAAAAA:mu1ibata4LRdqibfIQ0iyecpzA5gEdz7WJYoLOFebukQg7mPvU5GDTaZz9GfL7Ce5PuGgnY9_67sVQ)]
 + Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition, at EMNLP 2020. [[pdf](https://aclanthology.org/2020.emnlp-main.372.pdf)]
 + Knowledge-aware Attentive Neural Network for Ranking Question Answer Pairs, at SIGIR 2018. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3209978.3210081)]
+
+
+## Knowledge-Related Datasets
+
++ CREAK: A Dataset for Commonsense Reasoning over Entity Knowledge, at NeurIPS 2021. \[[pdf](https://openreview.net/pdf?id=mbW_GT3ZN-)\]
+
 
 ## Other Related Projects
 - **[Survey]** **[Prompt]** Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing, on arXiv 2021. [[pdf](https://arxiv.org/pdf/2107.13586.pdf)]
