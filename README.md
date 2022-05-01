@@ -19,8 +19,9 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + **[Survey]** Knowledge Enhanced Pretrained Language Models: A Compreshensive Survey, on arXiv 2021. \[[pdf](https://arxiv.org/pdf/2110.08455.pdf)\]
 + **[Survey]** Relational World Knowledge Representation in Contextual Language Models: A Review, at EMNLP 2021. \[[pdf](https://aclanthology.org/2021.emnlp-main.81.pdf)\]
 + **[Survey]** Combining pre-trained language models and structured knowledge, on arXiv 2021. \[[pdf](https://arxiv.org/pdf/2101.12294.pdf)\]
-+ Dict-BERT: Enhancing Language Model Pre-training with Dictionary, on arXiv 2022. \[[pdf](https://arxiv.org/pdf/2110.06490.pdf)\]
++ **[Linguistic Knowledge]** Dict-BERT: Enhancing Language Model Pre-training with Dictionary, on arXiv 2022. \[[pdf](https://arxiv.org/pdf/2110.06490.pdf)\]
 + **[Triplet Knowledge]** KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation, at TACL 2021. \[[pdf](https://watermark.silverchair.com/tacl_a_00360.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAswwggLIBgkqhkiG9w0BBwagggK5MIICtQIBADCCAq4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMtMtrKwKiDSYsdiFFAgEQgIICf2Jm5LEeKelUFGKdPDgBZ7MLEo8AN3Q7AWgXeCQkCvOY1GWvND8D4eMG75qClzNId7IFKfG5mHytXSrTa7s3op86wBOV2BkRiptuM3WWWrMbX9dTed35hhZlYICCs66MnIhOy11_UWbowM-O-lZcxeR58ThAlkTdI3AmFesXh1EDl-vIyx9aMN7rbElb1TUJNxnf7IvqNhF9kKvejIyTmPhwWlSrKCRCTqH_OhoYPsHPcI1CPJCARf_dDF0qOfLWF6JtOoAckju8lZiXgPt1kRAumcZQU5GpS1VGL2CKjSZ8PnEUhdbh4NXfaZ4uHsAGNjqSVgfia_V3S4stdcEeonrLh-PYCCo3bApuzN7NklKA3FJPyQLmNoYqIuffzcuNOisPiWjLBNGisadvXgg9SXAP4bAWEisaHFifxe1pYzVUesyiH3R8yUutwaZBv4CvPkRSwDNlk5yT0LiwPaShuxg42qlsNOVAXdA0EkVAMeZQKsWaxZOEABAOEzebrVl2l862ctxcc3F31ElX8w7R-c4mhVUF8LCz2vScdXezt2are12Jf-yilJoWdfuJgt4HiaTI1M1TpLp9BeQoPr_OSSctzSknFNIO9oVRpuCBcnRbNiCT4g1EZvXZJjcSjsUlsdX85B6KB8-yNapBnk_Bri3ICzDyTN4YRsIAr_jOcuOJZWxridktd7UP2Faur5sgZQPz97AN2Py7XQrt-hH2wLWfD84w5-i5x5a7Qr426P1_3Ldaoj3mnFUOuq6G24mTfE0VzsVq4QomGFScjJQSSnYuySxOKbNGYb-5p_y_qLF71zKNP48Ay_d7IWeT1AR3KvaJRwTg3f9UdZvRSf3C3A)\]
++ **[Entity Knowledge]** Entities as Experts: Sparse Memory Access with Entity Supervision, at EMNLP 2020. \[[pdf](https://aclanthology.org/2020.emnlp-main.400.pdf)\] 
 + **[Commonsense Knowledge]** Align, Mask and Select: A Simple Method for Incorporating Commonsense Knowledge into Language Representation Models, on arXiv 2020. \[[pdf](https://arxiv.org/pdf/1908.06725.pdf)\]
 
 ## Knowledge-Enhanced Text Representation
@@ -30,7 +31,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 - **[Entity Representation]** LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention, at EMNLP 2020. \[[pdf](https://aclanthology.org/2020.emnlp-main.523.pdf)\]
 - Breaking Through the 80% Glass Ceiling: Raising the State of the Art in Word Sense Disambiguation by Incorporating Knowledge Graph Information, at ACL 2020. [[pdf](https://aclanthology.org/2020.acl-main.255.pdf)]
 - Knowledge Enhanced Contextual Word Representations, at EMNLP 2019. \[[pdf](https://aclanthology.org/D19-1005.pdf)\]
-- Event Representation Learning Enhanced with External Commonsense Knowledge, at EMNLP 2019. \[[pdf](https://aclanthology.org/D19-1495.pdf)\]
+- **[Event Representation]** **[Commonsense Knowledge]** Event Representation Learning Enhanced with External Commonsense Knowledge, at EMNLP 2019. \[[pdf](https://aclanthology.org/D19-1495.pdf)\]
 - Offline versus Online Representation Learning of Documents Using External Knowledge, at TOIS 2019. \[[pdf](https://dl.acm.org/doi/abs/10.1145/3349527?casa_token=FQdaxs1gjN8AAAAA:YqIzQLc4hL-4mQZfevD6FV_FCF2JH2sCpKns49WpuqTRwPBHO_oqfhhESj5Kgb9LHGXjIu59yIalkg)\]
 
 
