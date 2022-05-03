@@ -94,4 +94,6 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 - **[Survey]** **[Prompt]** Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing, on arXiv 2021. [[pdf](https://arxiv.org/pdf/2107.13586.pdf)]
 - Knowledge-enriched Text Generation Survey, Tutorial and Reading, on github. [[home](https://github.com/wyu97/KENLG-Reading)]
 - A Survey of Knowledge-Enhanced Text Generation, on arXiv 2020. [[pdf](https://arxiv.org/pdf/2010.04389.pdf)]
+- PromptPapers, on github. [[home](https://github.com/thunlp/PromptPapers)]
+
 
