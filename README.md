@@ -72,6 +72,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 - **[Recommender System]** DKN: Deep Knowledge-Aware Network for News Recommendation, at WWW 2018. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3178876.3186175)]
 
 ## Knowledge-Enhanced Machine Reading Comprehension
++ SG-Net: Syntax-Guided Machine Reading Comprehension, at AAAI 2020. [[pdf](https://arxiv.org/pdf/1908.05147.pdf)]
 + Machine Reading Comprehension Using Structural Knowledge Graph-aware Network, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1602.pdf)]
 
 ## Knowledge-Enhanced Question Answering
