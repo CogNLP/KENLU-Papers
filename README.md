@@ -104,5 +104,6 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 - Knowledge-enriched Text Generation Survey, Tutorial and Reading, on github. [[home](https://github.com/wyu97/KENLG-Reading)]
 - A Survey of Knowledge-Enhanced Text Generation, on arXiv 2020. [[pdf](https://arxiv.org/pdf/2010.04389.pdf)]
 - PromptPapers, on github. [[home](https://github.com/thunlp/PromptPapers)]
+- RetrivalLMPapers, on github. [[home](https://github.com/Timothyxxx/RetrivalLMPapers)]
 
 
