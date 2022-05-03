@@ -78,6 +78,11 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition, at EMNLP 2020. [[pdf](https://aclanthology.org/2020.emnlp-main.372.pdf)]
 + Knowledge-aware Attentive Neural Network for Ranking Question Answer Pairs, at SIGIR 2018. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3209978.3210081)]
 
+## Memory-Enhanced PLM
+
++ Mention Memory: incorporating textual knowledge into Transformers through entity mention attention, at ICLR 2022. [[pdf](https://openreview.net/pdf?id=OY1A8ejQgEX)]
++ A Simple but Effective Pluggable Entity Lookup Table for Pre-trained Language Models, at ACL 2022. [[pdf](https://arxiv.org/pdf/2202.13392.pdf)]
+
 
 ## Knowledge-Related Datasets
 
