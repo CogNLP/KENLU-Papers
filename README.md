@@ -88,7 +88,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + Dynamic Integration of Background Knowledge in Neural NLU Systems, on arXiv 2018. [[pdf](https://arxiv.org/pdf/2010.04389.pdf)]
 
 
-## Memory-Enhanced PLM
+## External Knowledge Memory
 
 + Mention Memory: incorporating textual knowledge into Transformers through entity mention attention, at ICLR 2022. [[pdf](https://openreview.net/pdf?id=OY1A8ejQgEX)]
 + A Simple but Effective Pluggable Entity Lookup Table for Pre-trained Language Models, at ACL 2022. [[pdf](https://arxiv.org/pdf/2202.13392.pdf)]
