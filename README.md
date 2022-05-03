@@ -64,6 +64,10 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 - **[Named Entity Recognition]** Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1396.pdf)] 
 - **[Relation Extraction]** Improving Relation Extraction with Knowledge-attention, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1022.pdf)] 
 
+## Knowledge-Enhanced Semantics and Syntax Parsing
+- A Unified Syntax-aware Framework for Semantic Role Labeling, at EMNLP 2018. [[pdf](https://aclanthology.org/D18-1262.pdf)]
+
+
 ## Knowledge-Enhanced Information Retrieval
 - LET: Linguistic Knowledge Enhanced Graph Transformer for Chinese Short Text Matching, at AAAI 2021. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/17592)]
 - **[Recommender System]** KRED: Knowledge-Aware Document Representation for News Recommendations, at RecSys 2020. [[pdf](https://arxiv.org/pdf/1910.11494.pdf)]
@@ -73,12 +77,16 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 
 ## Knowledge-Enhanced Machine Reading Comprehension
 + SG-Net: Syntax-Guided Machine Reading Comprehension, at AAAI 2020. [[pdf](https://arxiv.org/pdf/1908.05147.pdf)]
++ Incorporating Syntax and Frame Semantics in Neural Network for Machine Reading Comprehension, at COLING 2020. [[pdf](https://aclanthology.org/2020.coling-main.237/)]
 + Machine Reading Comprehension Using Structural Knowledge Graph-aware Network, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1602.pdf)]
++ Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge, at EMNLP 2018. [[pdf](https://aclanthology.org/P18-1076.pdf)]
 
 ## Knowledge-Enhanced Question Answering
 + Unstructured Text Enhanced Open-Domain Dialogue System: A Systematic Survey, at TOIS 2022. [[pdf](https://dl.acm.org/doi/abs/10.1145/3464377?casa_token=y4ngVLYx2WsAAAAA:mu1ibata4LRdqibfIQ0iyecpzA5gEdz7WJYoLOFebukQg7mPvU5GDTaZz9GfL7Ce5PuGgnY9_67sVQ)]
 + Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition, at EMNLP 2020. [[pdf](https://aclanthology.org/2020.emnlp-main.372.pdf)]
 + Knowledge-aware Attentive Neural Network for Ranking Question Answer Pairs, at SIGIR 2018. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3209978.3210081)]
++ Dynamic Integration of Background Knowledge in Neural NLU Systems, on arXiv 2018. [[pdf](https://arxiv.org/pdf/2010.04389.pdf)]
+
 
 ## Memory-Enhanced PLM
 
