@@ -97,6 +97,8 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 ## Knowledge-Related Datasets
 
 + CREAK: A Dataset for Commonsense Reasoning over Entity Knowledge, at NeurIPS 2021. \[[pdf](https://openreview.net/pdf?id=mbW_GT3ZN-)\]
++ GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding, at EMNLP 2018. \[[pdf](https://aclanthology.org/W18-5446.pdf)\]
+
 
 
 ## Other Related Projects
