@@ -43,8 +43,10 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 - **[Event Representation]** **[Commonsense Knowledge]** Event Representation Learning Enhanced with External Commonsense Knowledge, at EMNLP 2019. \[[pdf](https://aclanthology.org/D19-1495.pdf)\]
 - Offline versus Online Representation Learning of Documents Using External Knowledge, at TOIS 2019. \[[pdf](https://dl.acm.org/doi/abs/10.1145/3349527?casa_token=FQdaxs1gjN8AAAAA:YqIzQLc4hL-4mQZfevD6FV_FCF2JH2sCpKns49WpuqTRwPBHO_oqfhhESj5Kgb9LHGXjIu59yIalkg)\]
 
-
 ## Knowledge-Enhanced Text Classification
+
++ ![](https://img.shields.io/badge/Knowledge-World-yellow)Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge, at ACL 2022.[[pdf](https://aclanthology.org/2021.acl-long.62.pdf)] [[code](https://github.com/BUPT-GAMMA/CompareNet_FakeNewsDetection)]
+
 + Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classification, at ACL 2022. [[pdf](https://arxiv.org/pdf/2108.02035.pdf)]
 + KenMeSH: Knowledge-enhanced End-to-end Biomedical Text Labelling, on arXiv 2022. [[pdf](https://arxiv.org/pdf/2203.06835.pdf)]
 + KESA: A Knowledge Enhanced Approach For Sentiment Analysis, on arXiv 2022. \[[pdf](https://arxiv.org/pdf/2202.12093.pdf)\]
