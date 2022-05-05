@@ -78,7 +78,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 - **[Recommender System]** DKN: Deep Knowledge-Aware Network for News Recommendation, at WWW 2018. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3178876.3186175)]
 
 ## Knowledge-Enhanced Machine Reading Comprehension
-+ SG-Net: Syntax-Guided Machine Reading Comprehension, at AAAI 2020. [[pdf](https://arxiv.org/pdf/1908.05147.pdf)]
++  ![](https://img.shields.io/badge/Knowledge-Linguistic-brightgreen)SG-Net: Syntax-Guided Machine Reading Comprehension, at AAAI 2020. [[pdf](https://arxiv.org/pdf/1908.05147.pdf)]
 + Incorporating Syntax and Frame Semantics in Neural Network for Machine Reading Comprehension, at COLING 2020. [[pdf](https://aclanthology.org/2020.coling-main.237/)]
 + Machine Reading Comprehension Using Structural Knowledge Graph-aware Network, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1602.pdf)]
 + Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge, at EMNLP 2018. [[pdf](https://aclanthology.org/P18-1076.pdf)]
