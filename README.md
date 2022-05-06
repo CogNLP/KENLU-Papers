@@ -19,6 +19,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 
 ## Knowledge-Enhanced Pre-training
 + ![](https://img.shields.io/badge/Survey-blue) A Survey of Knowledge Enhanced Pre-trained Models, on arXiv 2022. \[[pdf](https://arxiv.org/pdf/2110.00269.pdf)\]
++ **[Commonsense Knowledge]**Great Truths are Always Simple: A Rather Simple Knowledge Encoder for Enhancing the Commonsense Reasoning Capacity of Pre-Trained Models, at  NAACL-Findings 2022.[[pdf](https://arxiv.org/pdf/2205.01841v1.pdf)] [[code](https://github.com/RUCAIBox/SAFE)]
 + ![](https://img.shields.io/badge/Survey-blue) Knowledge Enhanced Pretrained Language Models: A Compreshensive Survey, on arXiv 2021. \[[pdf](https://arxiv.org/pdf/2110.08455.pdf)\]
 + ![](https://img.shields.io/badge/Survey-blue) Relational World Knowledge Representation in Contextual Language Models: A Review, at EMNLP 2021. \[[pdf](https://aclanthology.org/2021.emnlp-main.81.pdf)\]
 + ![](https://img.shields.io/badge/Survey-blue) Combining pre-trained language models and structured knowledge, on arXiv 2021. \[[pdf](https://arxiv.org/pdf/2101.12294.pdf)\]
@@ -73,6 +74,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 
 ## Knowledge-Enhanced Information Retrieval
 - LET: Linguistic Knowledge Enhanced Graph Transformer for Chinese Short Text Matching, at AAAI 2021. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/17592)]
+-  Entity-aware Transformers for Entity Search,on arXiv 2022.[[pdf](https://arxiv.org/pdf/2205.00820v1.pdf)]
 - **[Recommender System]** KRED: Knowledge-Aware Document Representation for News Recommendations, at RecSys 2020. [[pdf](https://arxiv.org/pdf/1910.11494.pdf)]
 - Learning Unsupervised Knowledge-Enhanced Representations to Reduce the Semantic Gap in Information Retrieval, at TIOS 2020. [[pdf](https://dl.acm.org/doi/abs/10.1145/3417996)]
 - Knowledge Enhanced Hybrid Neural Network for Text Matching, at AAAI 2018. [[pdf](https://openreview.net/forum?id=ryZBFeZ_-H)]
@@ -85,6 +87,9 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge, at EMNLP 2018. [[pdf](https://aclanthology.org/P18-1076.pdf)]
 
 ## Knowledge-Enhanced Question Answering
+
++ Instilling Type Knowledge in Language Models via Multi-Task QA, on arXiv 2022.[[pdf](https://arxiv.org/pdf/2204.13796v1.pdf)]
+
 + Unstructured Text Enhanced Open-Domain Dialogue System: A Systematic Survey, at TOIS 2022. [[pdf](https://dl.acm.org/doi/abs/10.1145/3464377?casa_token=y4ngVLYx2WsAAAAA:mu1ibata4LRdqibfIQ0iyecpzA5gEdz7WJYoLOFebukQg7mPvU5GDTaZz9GfL7Ce5PuGgnY9_67sVQ)]
 + Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition, at EMNLP 2020. [[pdf](https://aclanthology.org/2020.emnlp-main.372.pdf)]
 + Knowledge-aware Attentive Neural Network for Ranking Question Answer Pairs, at SIGIR 2018. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3209978.3210081)]
