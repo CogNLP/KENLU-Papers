@@ -4,7 +4,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 
 ## Keywords Convention
 
-![](https://img.shields.io/badge/Survey-blue)  ![](https://img.shields.io/badge/Knowledge-Linguistic-brightgreen)  ![](https://img.shields.io/badge/Knowledge-World-yellow) 
+![](https://img.shields.io/badge/Survey-blue) ![](https://img.shields.io/badge/Representation-orange) ![](https://img.shields.io/badge/Task-red)  ![](https://img.shields.io/badge/Knowledge-World-yellow)  ![](https://img.shields.io/badge/Knowledge-Linguistic-brightgreen)  ![](https://img.shields.io/badge/Knowledge-Commonsense-purple) 
 
 ## Basic NLU Papers for Beginners
 
