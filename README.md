@@ -45,11 +45,10 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 
 ## Knowledge-Enhanced Text Classification
 
-+ ![](https://img.shields.io/badge/Knowledge-World-yellow)Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge, at ACL 2022.[[pdf](https://aclanthology.org/2021.acl-long.62.pdf)] [[code](https://github.com/BUPT-GAMMA/CompareNet_FakeNewsDetection)]
-
 + Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classification, at ACL 2022. [[pdf](https://arxiv.org/pdf/2108.02035.pdf)]
 + KenMeSH: Knowledge-enhanced End-to-end Biomedical Text Labelling, on arXiv 2022. [[pdf](https://arxiv.org/pdf/2203.06835.pdf)]
 + KESA: A Knowledge Enhanced Approach For Sentiment Analysis, on arXiv 2022. \[[pdf](https://arxiv.org/pdf/2202.12093.pdf)\]
++ ![](https://img.shields.io/badge/Knowledge-World-yellow)Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge, at ACL 2021.[[pdf](https://aclanthology.org/2021.acl-long.62.pdf)] [[code](https://github.com/BUPT-GAMMA/CompareNet_FakeNewsDetection)]
 + **[Entity Knowledge]**  **[Fact Verification]** Modeling Entity Knowledge for Fact Verification, at FEVER 2021. [[pdf](https://aclanthology.org/2021.fever-1.6.pdf)]
 + Hierarchical Heterogeneous Graph Representation Learning for Short Text Classification, at EMNLP 2021. [[pdf](https://aclanthology.org/2021.emnlp-main.247.pdf)]
 + Knowledge-Guided Paraphrase Identification, at EMNLP findings 2021. [[pdf](https://aclanthology.org/2021.findings-emnlp.72.pdf)]
