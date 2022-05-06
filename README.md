@@ -15,11 +15,11 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + A Primer in BERTology: What We Know About How BERT Works, at TACL 2020. \[[pdf](https://watermark.silverchair.com/tacl_a_00349.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsowggLGBgkqhkiG9w0BBwagggK3MIICswIBADCCAqwGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMwVFlFOPJnEtispYgAgEQgIICfW5LKhjUj8l71T16m9fhF8VSzMacFOPRdm00k2KBdpYkVpGAI8pGELEpSMatA_WHwzSiw3iwBSmcLaxqnHyxgsKMOiMu4VoakEUQJddgaLx_5l62e4BaksUPSaofHqo9RFMTq9pQJg3lPxiQhtn0xnyflTyR90kgq0gx4NlRWHxzYDHMvyGrsRlNGrmHDjcNTJcrN-vD9ER8Kw1dK9_BL9SLk4zb10cbfLLEAS4O5wQI6pSGml5WkRsbzHlej2GImj0wcoyPS9eTOHwg1w_yMj6h5Ey_e-18dN-g2CCwlNAtTefg9Cv-9O_CcQr9gBC7hn9scbUIcs2uemXtAslTiI2FiVDdcbqQ_cG44H5E3jRVVbGtMLkaqnqnt2D4APD98nWU0W9xUYzQsQ7rDKX_Ee5ShirJvSAFr_ZKFWxwI02twvFw8aWfGv89I5kkzmK6T2_QSQsNhSksZWCGvqDBIwz_MxiG-htsvIyP9rWlj2j4djGuv2QBhfzByIyO3D_ARkHG8FvxY-IeBiDhlP2e3i2eint_6-ss8oowDiE0XhllNa_CC-zKiCIeP8CixK2V77SmRBnV-ORYgp5A2Cjkjztmrt8YOdza29bdyiBCuYrg40uXoRmu26RVm3PizqNncMVHApRU6K5Glhhb3LDRlxRF_dOsyWiUxqm2EpbD4smJ-9htWm2RaHHkP_W5_lSmNuoEfLhsLlSImhMzMr0gL8lnZ3XBXJJNbMf2CWULUENAYt1-JHS_BB_-w8QujKxMp87oe9YPik92hueP25Mx82r_moEmdXtzswkqMleHBmic_PVyh8rGaV0Fb94EibAAHaB8s9rXdFQTIjfc1h8)\]
 
 ## KENLU Survey
-- ![](https://img.shields.io/badge/Knowledge-Linguistic-brightgreen))Does Knowledge Help General NLU? An Empirical Study, on arXiv 2021. [[pdf](https://arxiv.org/pdf/2109.00563.pdf)]
+- ![](https://img.shields.io/badge/Knowledge-World-yellow) Does Knowledge Help General NLU? An Empirical Study, on arXiv 2021. [[pdf](https://arxiv.org/pdf/2109.00563.pdf)]
 
 ## Knowledge-Enhanced Pre-training
 + ![](https://img.shields.io/badge/Survey-blue) A Survey of Knowledge Enhanced Pre-trained Models, on arXiv 2022. \[[pdf](https://arxiv.org/pdf/2110.00269.pdf)\]
-+ **[Commonsense Knowledge]**Great Truths are Always Simple: A Rather Simple Knowledge Encoder for Enhancing the Commonsense Reasoning Capacity of Pre-Trained Models, at  NAACL-Findings 2022.[[pdf](https://arxiv.org/pdf/2205.01841v1.pdf)] [[code](https://github.com/RUCAIBox/SAFE)]
++ **[Commonsense Knowledge]** Great Truths are Always Simple: A Rather Simple Knowledge Encoder for Enhancing the Commonsense Reasoning Capacity of Pre-Trained Models, at NAACL Findings 2022. [[pdf](https://arxiv.org/pdf/2205.01841v1.pdf)] [[code](https://github.com/RUCAIBox/SAFE)]
 + ![](https://img.shields.io/badge/Survey-blue) Knowledge Enhanced Pretrained Language Models: A Compreshensive Survey, on arXiv 2021. \[[pdf](https://arxiv.org/pdf/2110.08455.pdf)\]
 + ![](https://img.shields.io/badge/Survey-blue) Relational World Knowledge Representation in Contextual Language Models: A Review, at EMNLP 2021. \[[pdf](https://aclanthology.org/2021.emnlp-main.81.pdf)\]
 + ![](https://img.shields.io/badge/Survey-blue) Combining pre-trained language models and structured knowledge, on arXiv 2021. \[[pdf](https://arxiv.org/pdf/2101.12294.pdf)\]
@@ -49,7 +49,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classification, at ACL 2022. [[pdf](https://arxiv.org/pdf/2108.02035.pdf)]
 + KenMeSH: Knowledge-enhanced End-to-end Biomedical Text Labelling, on arXiv 2022. [[pdf](https://arxiv.org/pdf/2203.06835.pdf)]
 + KESA: A Knowledge Enhanced Approach For Sentiment Analysis, on arXiv 2022. \[[pdf](https://arxiv.org/pdf/2202.12093.pdf)\]
-+ ![](https://img.shields.io/badge/Knowledge-World-yellow) Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge, at ACL 2021.[[pdf](https://aclanthology.org/2021.acl-long.62.pdf)] [[code](https://github.com/BUPT-GAMMA/CompareNet_FakeNewsDetection)]
++ ![](https://img.shields.io/badge/Knowledge-World-yellow) Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.62.pdf)] [[code](https://github.com/BUPT-GAMMA/CompareNet_FakeNewsDetection)]
 + **[Entity Knowledge]**  **[Fact Verification]** Modeling Entity Knowledge for Fact Verification, at FEVER 2021. [[pdf](https://aclanthology.org/2021.fever-1.6.pdf)]
 + Hierarchical Heterogeneous Graph Representation Learning for Short Text Classification, at EMNLP 2021. [[pdf](https://aclanthology.org/2021.emnlp-main.247.pdf)]
 + Knowledge-Guided Paraphrase Identification, at EMNLP findings 2021. [[pdf](https://aclanthology.org/2021.findings-emnlp.72.pdf)]
