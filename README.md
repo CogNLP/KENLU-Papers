@@ -19,7 +19,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 
 ## Knowledge-Enhanced Pre-training
 + ![](https://img.shields.io/badge/Survey-blue) A Survey of Knowledge Enhanced Pre-trained Models, on arXiv 2022. \[[pdf](https://arxiv.org/pdf/2110.00269.pdf)\]
-+ **[Commonsense Knowledge]** Great Truths are Always Simple: A Rather Simple Knowledge Encoder for Enhancing the Commonsense Reasoning Capacity of Pre-Trained Models, at NAACL Findings 2022. [[pdf](https://arxiv.org/pdf/2205.01841v1.pdf)] [[code](https://github.com/RUCAIBox/SAFE)]
++ **[Commonsense Knowledge]** Great Truths are Always Simple: A Rather Simple Knowledge Encoder for Enhancing the Commonsense Reasoning Capacity of Pre-Trained Models, at NAACL findings 2022. [[pdf](https://arxiv.org/pdf/2205.01841v1.pdf)] [[code](https://github.com/RUCAIBox/SAFE)]
 + ![](https://img.shields.io/badge/Survey-blue) Knowledge Enhanced Pretrained Language Models: A Compreshensive Survey, on arXiv 2021. \[[pdf](https://arxiv.org/pdf/2110.08455.pdf)\]
 + ![](https://img.shields.io/badge/Survey-blue) Relational World Knowledge Representation in Contextual Language Models: A Review, at EMNLP 2021. \[[pdf](https://aclanthology.org/2021.emnlp-main.81.pdf)\]
 + ![](https://img.shields.io/badge/Survey-blue) Combining pre-trained language models and structured knowledge, on arXiv 2021. \[[pdf](https://arxiv.org/pdf/2101.12294.pdf)\]
