@@ -2,7 +2,7 @@
 
 An awesome repository for knowledge-enhanced natural language understanding resources, including related papers, codes and datasets. Inspired by [KENLG-Reading](https://github.com/wyu97/KENLG-Reading).
 
-<div align=center><img width="450" height="250" src="./docs/source/figures/knowledge.png"/></div>
+<div align=center><img width="450" height="250" src="./figures/knowledge.png"/></div>
 
 
 ## Keywords Convention
