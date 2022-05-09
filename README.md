@@ -17,7 +17,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + ![](https://img.shields.io/badge/SpanBERT-green) SpanBERT: Improving Pre-training by Representing and Predicting Spans, at TACL 2020. \[[pdf](https://watermark.silverchair.com/tacl_a_00300.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAswwggLIBgkqhkiG9w0BBwagggK5MIICtQIBADCCAq4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMJSdEoxhDp2Vfkr4iAgEQgIICf3hP52SfBNJNCTxJA-VRo3ExIlGOLIddPfSj3IcpRWHHerFFqRl-orIB1rTw9CnQtr7OTZ-9JtUg0ut9qyj68gIut_7Atb8SU-rjzLGkeh2j0qpvYNzXOyJIdY-6d6E0zwWt1JPyV2G3fUIUfEtPRj0jl5ZfvyqdIq-nQG2eQM8L6A5y3mVsZx3LqNvNJSupvajaR9FmpyjWtgByta-dCnOahgnmuMGxFiPWqeYNrtawb18DycLI1bXwUHIMEvjrFUT1A_ouu7yvYovl8HQspQV-S2-Gl_RDwQ_wSSXgZznNiAaEva3C9Ajl7ZLJH3HXNUw3HQJSoBcntQmhWrylC-HIJ3BxSg5SfC9V4fhMY7ZzGkNKVOB0N6mziE-iBl57K8kezvcgPyACF9SDNNbgp3TO3CCN75etIdEMXSVpV17Ehut_HdK77lAfUcxspKE3KnRWsOfdh477xYdw-I5RVoSEtNtimj_YVw7KHGbEgBzZyMamqxhnqseElBoPOPpj67BX4NeN6kKteH1c4fzD00rDr834KYi5hi_5bXwxKCkc_nDBPdQp-3YolCGz5Z2WkEFj187JlkaftqJNf_NVhxYf1WTANc-7k5wMMXJlC-KNR60mieHWoCHQZIlwBuPQq-oI055JcGI4yI91objvBvCH8BOSYdACbnlGR_wsZxxfCFaNcYqaMqVY1t5OZFxqY2Q5ACRwzYu19GjFE-jPfXhGW84PF-NqsVpKJbJxywKfseHEpi8m86rP-eObzAlBiplhD9s9zkjy0pbM0P-ab5A2dOruqN1A_XDMOoKqEiKJIb_gbmaNHfk61HvzU4ZY3H8wDwsWQIRJRkaoJEBbLw)\]
 + A Primer in BERTology: What We Know About How BERT Works, at TACL 2020. \[[pdf](https://watermark.silverchair.com/tacl_a_00349.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsowggLGBgkqhkiG9w0BBwagggK3MIICswIBADCCAqwGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMwVFlFOPJnEtispYgAgEQgIICfW5LKhjUj8l71T16m9fhF8VSzMacFOPRdm00k2KBdpYkVpGAI8pGELEpSMatA_WHwzSiw3iwBSmcLaxqnHyxgsKMOiMu4VoakEUQJddgaLx_5l62e4BaksUPSaofHqo9RFMTq9pQJg3lPxiQhtn0xnyflTyR90kgq0gx4NlRWHxzYDHMvyGrsRlNGrmHDjcNTJcrN-vD9ER8Kw1dK9_BL9SLk4zb10cbfLLEAS4O5wQI6pSGml5WkRsbzHlej2GImj0wcoyPS9eTOHwg1w_yMj6h5Ey_e-18dN-g2CCwlNAtTefg9Cv-9O_CcQr9gBC7hn9scbUIcs2uemXtAslTiI2FiVDdcbqQ_cG44H5E3jRVVbGtMLkaqnqnt2D4APD98nWU0W9xUYzQsQ7rDKX_Ee5ShirJvSAFr_ZKFWxwI02twvFw8aWfGv89I5kkzmK6T2_QSQsNhSksZWCGvqDBIwz_MxiG-htsvIyP9rWlj2j4djGuv2QBhfzByIyO3D_ARkHG8FvxY-IeBiDhlP2e3i2eint_6-ss8oowDiE0XhllNa_CC-zKiCIeP8CixK2V77SmRBnV-ORYgp5A2Cjkjztmrt8YOdza29bdyiBCuYrg40uXoRmu26RVm3PizqNncMVHApRU6K5Glhhb3LDRlxRF_dOsyWiUxqm2EpbD4smJ-9htWm2RaHHkP_W5_lSmNuoEfLhsLlSImhMzMr0gL8lnZ3XBXJJNbMf2CWULUENAYt1-JHS_BB_-w8QujKxMp87oe9YPik92hueP25Mx82r_moEmdXtzswkqMleHBmic_PVyh8rGaV0Fb94EibAAHaB8s9rXdFQTIjfc1h8)\]
 
-## KENLU Survey
+## KENLU
 - ![](https://img.shields.io/badge/Knowledge-World-yellow) Does Knowledge Help General NLU? An Empirical Study, on arXiv 2021. [[pdf](https://arxiv.org/pdf/2109.00563.pdf)]
 
 ## Knowledge-Enhanced Pre-training
@@ -91,7 +91,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 
 ## Knowledge-Enhanced Question Answering
 - Instilling Type Knowledge in Language Models via Multi-Task QA, at NAACL findings 2022.[[pdf](https://arxiv.org/pdf/2204.13796v1.pdf)]
-- Unstructured Text Enhanced Open-Domain Dialogue System: A Systematic Survey, at TOIS 2022. [[pdf](https://dl.acm.org/doi/abs/10.1145/3464377?casa_token=y4ngVLYx2WsAAAAA:mu1ibata4LRdqibfIQ0iyecpzA5gEdz7WJYoLOFebukQg7mPvU5GDTaZz9GfL7Ce5PuGgnY9_67sVQ)]
+- ![](https://img.shields.io/badge/Survey-blue) Unstructured Text Enhanced Open-Domain Dialogue System: A Systematic Survey, at TOIS 2022. [[pdf](https://dl.acm.org/doi/abs/10.1145/3464377?casa_token=y4ngVLYx2WsAAAAA:mu1ibata4LRdqibfIQ0iyecpzA5gEdz7WJYoLOFebukQg7mPvU5GDTaZz9GfL7Ce5PuGgnY9_67sVQ)]
 - Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition, at EMNLP 2020. [[pdf](https://aclanthology.org/2020.emnlp-main.372.pdf)]
 - Knowledge-aware Attentive Neural Network for Ranking Question Answer Pairs, at SIGIR 2018. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3209978.3210081)]
 - Dynamic Integration of Background Knowledge in Neural NLU Systems, on arXiv 2018. [[pdf](https://arxiv.org/pdf/2010.04389.pdf)]
@@ -112,8 +112,8 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 
 ## Other Related Projects
 - ![](https://img.shields.io/badge/Survey-blue) **[Prompt]** Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing, on arXiv 2021. [[pdf](https://arxiv.org/pdf/2107.13586.pdf)]
-- Knowledge-enriched Text Generation Survey, Tutorial and Reading, on github. [[home](https://github.com/wyu97/KENLG-Reading)]
-- A Survey of Knowledge-Enhanced Text Generation, on arXiv 2020. [[pdf](https://arxiv.org/pdf/2010.04389.pdf)]
+- ![](https://img.shields.io/badge/Survey-blue) Knowledge-enriched Text Generation Survey, Tutorial and Reading, on github. [[home](https://github.com/wyu97/KENLG-Reading)]
+- ![](https://img.shields.io/badge/Survey-blue) A Survey of Knowledge-Enhanced Text Generation, on arXiv 2020. [[pdf](https://arxiv.org/pdf/2010.04389.pdf)]
 - PromptPapers, on github. [[home](https://github.com/thunlp/PromptPapers)]
 - RetrivalLMPapers, on github. [[home](https://github.com/Timothyxxx/RetrivalLMPapers)]
 
