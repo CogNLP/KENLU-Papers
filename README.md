@@ -101,6 +101,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 - ![](https://img.shields.io/badge/Knowledge-Commonsense-purple) Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering, at AAAI 2020. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/6364)]
 - Knowledge-aware Attentive Neural Network for Ranking Question Answer Pairs, at SIGIR 2018. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3209978.3210081)]
 - Dynamic Integration of Background Knowledge in Neural NLU Systems, on arXiv 2018. [[pdf](https://arxiv.org/pdf/2010.04389.pdf)]
+- An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge, at EMNLP 2017. [[pdf](https://aclanthology.org/P17-1021.pdf)]
 
 ## Knowledge-Enhanced Reasoning
 - KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1282.pdf)]
