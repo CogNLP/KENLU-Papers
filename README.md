@@ -28,8 +28,10 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + ![](https://img.shields.io/badge/Survey-blue) Combining pre-trained language models and structured knowledge, on arXiv 2021. \[[pdf](https://arxiv.org/pdf/2101.12294.pdf)\]
 + ![](https://img.shields.io/badge/Survey-blue) Incorporating Extra Knowledge to Enhance Word Embedding, at IJCAI 2020. \[[pdf](https://dl.acm.org/doi/pdf/10.5555/3491440.3492126)\]
 + ![](https://img.shields.io/badge/Knowledge-Linguistic-brightgreen) Dict-BERT: Enhancing Language Model Pre-training with Dictionary, on arXiv 2022. \[[pdf](https://arxiv.org/pdf/2110.06490.pdf)\]
++ K-ADAPTER: Infusing Knowledge into Pre-Trained Models with Adapters, at EMNLP 2021. \[[pdf](https://aclanthology.org/2021.findings-acl.121.pdf)\]
 +  ![](https://img.shields.io/badge/Knowledge-World-yellow)  KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation, at TACL 2021. \[[pdf](https://watermark.silverchair.com/tacl_a_00360.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAswwggLIBgkqhkiG9w0BBwagggK5MIICtQIBADCCAq4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMtMtrKwKiDSYsdiFFAgEQgIICf2Jm5LEeKelUFGKdPDgBZ7MLEo8AN3Q7AWgXeCQkCvOY1GWvND8D4eMG75qClzNId7IFKfG5mHytXSrTa7s3op86wBOV2BkRiptuM3WWWrMbX9dTed35hhZlYICCs66MnIhOy11_UWbowM-O-lZcxeR58ThAlkTdI3AmFesXh1EDl-vIyx9aMN7rbElb1TUJNxnf7IvqNhF9kKvejIyTmPhwWlSrKCRCTqH_OhoYPsHPcI1CPJCARf_dDF0qOfLWF6JtOoAckju8lZiXgPt1kRAumcZQU5GpS1VGL2CKjSZ8PnEUhdbh4NXfaZ4uHsAGNjqSVgfia_V3S4stdcEeonrLh-PYCCo3bApuzN7NklKA3FJPyQLmNoYqIuffzcuNOisPiWjLBNGisadvXgg9SXAP4bAWEisaHFifxe1pYzVUesyiH3R8yUutwaZBv4CvPkRSwDNlk5yT0LiwPaShuxg42qlsNOVAXdA0EkVAMeZQKsWaxZOEABAOEzebrVl2l862ctxcc3F31ElX8w7R-c4mhVUF8LCz2vScdXezt2are12Jf-yilJoWdfuJgt4HiaTI1M1TpLp9BeQoPr_OSSctzSknFNIO9oVRpuCBcnRbNiCT4g1EZvXZJjcSjsUlsdX85B6KB8-yNapBnk_Bri3ICzDyTN4YRsIAr_jOcuOJZWxridktd7UP2Faur5sgZQPz97AN2Py7XQrt-hH2wLWfD84w5-i5x5a7Qr426P1_3Ldaoj3mnFUOuq6G24mTfE0VzsVq4QomGFScjJQSSnYuySxOKbNGYb-5p_y_qLF71zKNP48Ay_d7IWeT1AR3KvaJRwTg3f9UdZvRSf3C3A)\]
 + **[Medical Knowledge]** SMedBERT: A Knowledge-Enhanced Pre-trained Language Model with Structured Semantics for Medical Text Mining, at ACL 2021. \[[pdf](https://aclanthology.org/2021.acl-long.457.pdf)\] 
++ ![](https://img.shields.io/badge/Knowledge-Linguistic-brightgreen) Syntax-BERT: Improving Pre-trained Transformers with Syntax Trees, at EACL 2021. \[[pdf](https://aclanthology.org/2021.eacl-main.262.pdf)\] 
 + ![](https://img.shields.io/badge/Knowledge-World-yellow) Entities as Experts: Sparse Memory Asccess with Entity Supervision, at EMNLP 2020. \[[pdf](https://aclanthology.org/2020.emnlp-main.400.pdf)\] 
 + ![](https://img.shields.io/badge/Knowledge-World-yellow) K-BERT: Enabling Language Representation with Knowledge Graph, at AAAI 2020. \[[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/5681)\] 
 + ![](https://img.shields.io/badge/Knowledge-Commonsense-purple) Align, Mask and Select: A Simple Method for Incorporating Commonsense Knowledge into Language Representation Models, on arXiv 2020. \[[pdf](https://arxiv.org/pdf/1908.06725.pdf)\]
@@ -98,7 +100,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 - Dynamic Integration of Background Knowledge in Neural NLU Systems, on arXiv 2018. [[pdf](https://arxiv.org/pdf/2010.04389.pdf)]
 
 
-## External Memory and Retrieval Augmented PLMs
+## Memory and Retrieval Augmented PLMs
 
 + Mention Memory: incorporating textual knowledge into Transformers through entity mention attention, at ICLR 2022. [[pdf](https://openreview.net/pdf?id=OY1A8ejQgEX)]
 + A Simple but Effective Pluggable Entity Lookup Table for Pre-trained Language Models, at ACL 2022. [[pdf](https://arxiv.org/pdf/2202.13392.pdf)]
