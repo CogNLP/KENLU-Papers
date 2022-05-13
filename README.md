@@ -95,12 +95,14 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + ![](https://img.shields.io/badge/Knowledge-Commonsense-purple) Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge, at EMNLP 2018. [[pdf](https://aclanthology.org/P18-1076.pdf)]
 
 ## Knowledge-Enhanced Question Answering
-- Instilling Type Knowledge in Language Models via Multi-Task QA, at NAACL findings 2022.[[pdf](https://arxiv.org/pdf/2204.13796v1.pdf)]
+- Instilling Type Knowledge in Language Models via Multi-Task QA, at NAACL findings 2022. [[pdf](https://arxiv.org/pdf/2204.13796v1.pdf)]
 - ![](https://img.shields.io/badge/Survey-blue) Unstructured Text Enhanced Open-Domain Dialogue System: A Systematic Survey, at TOIS 2022. [[pdf](https://dl.acm.org/doi/abs/10.1145/3464377?casa_token=y4ngVLYx2WsAAAAA:mu1ibata4LRdqibfIQ0iyecpzA5gEdz7WJYoLOFebukQg7mPvU5GDTaZz9GfL7Ce5PuGgnY9_67sVQ)]
 - Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition, at EMNLP 2020. [[pdf](https://aclanthology.org/2020.emnlp-main.372.pdf)]
 - Knowledge-aware Attentive Neural Network for Ranking Question Answer Pairs, at SIGIR 2018. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3209978.3210081)]
 - Dynamic Integration of Background Knowledge in Neural NLU Systems, on arXiv 2018. [[pdf](https://arxiv.org/pdf/2010.04389.pdf)]
 
+## Knowledge-Enhanced Reasoning
+- KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1282.pdf)]
 
 ## Memory and Retrieval Augmented PLMs
 
