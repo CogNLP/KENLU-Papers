@@ -77,8 +77,8 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 
 
 ## Knowledge-Enhanced Information Retrieval
-- LET: Linguistic Knowledge Enhanced Graph Transformer for Chinese Short Text Matching, at AAAI 2021. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/17592)]
-- Entity-aware Transformers for Entity Search,on arXiv 2022.[[pdf](https://arxiv.org/pdf/2205.00820v1.pdf)]
+- ![](https://img.shields.io/badge/Knowledge-World-yellow) Entity-aware Transformers for Entity Search, on arXiv 2022.[[pdf](https://arxiv.org/pdf/2205.00820v1.pdf)]
+- ![](https://img.shields.io/badge/Knowledge-Linguistic-brightgreen) LET: Linguistic Knowledge Enhanced Graph Transformer for Chinese Short Text Matching, at AAAI 2021. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/17592)]
 - **[Recommender System]** KRED: Knowledge-Aware Document Representation for News Recommendations, at RecSys 2020. [[pdf](https://arxiv.org/pdf/1910.11494.pdf)]
 - Learning Unsupervised Knowledge-Enhanced Representations to Reduce the Semantic Gap in Information Retrieval, at TIOS 2020. [[pdf](https://dl.acm.org/doi/abs/10.1145/3417996)]
 - Knowledge Enhanced Hybrid Neural Network for Text Matching, at AAAI 2018. [[pdf](https://openreview.net/forum?id=ryZBFeZ_-H)]
