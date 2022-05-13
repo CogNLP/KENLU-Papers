@@ -57,6 +57,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + KenMeSH: Knowledge-enhanced End-to-end Biomedical Text Labelling, on arXiv 2022. [[pdf](https://arxiv.org/pdf/2203.06835.pdf)]
 + KESA: A Knowledge Enhanced Approach For Sentiment Analysis, on arXiv 2022. \[[pdf](https://arxiv.org/pdf/2202.12093.pdf)\]
 + ![](https://img.shields.io/badge/Knowledge-World-yellow) Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.62.pdf)] [[code](https://github.com/BUPT-GAMMA/CompareNet_FakeNewsDetection)]
++ ![](https://img.shields.io/badge/Knowledge-Commonsense-purple) Enhancing Zero-shot and Few-shot Stance Detection with Commonsense Knowledge Graph, at ACL findings 2021. [[pdf](https://aclanthology.org/2021.findings-acl.278.pdf)]
 + ![](https://img.shields.io/badge/Entity_Representation-orange)  **[Fact Verification]** Modeling Entity Knowledge for Fact Verification, at FEVER 2021. [[pdf](https://aclanthology.org/2021.fever-1.6.pdf)]
 + Hierarchical Heterogeneous Graph Representation Learning for Short Text Classification, at EMNLP 2021. [[pdf](https://aclanthology.org/2021.emnlp-main.247.pdf)]
 + Knowledge-Guided Paraphrase Identification, at EMNLP findings 2021. [[pdf](https://aclanthology.org/2021.findings-emnlp.72.pdf)]
@@ -91,7 +92,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 +  ![](https://img.shields.io/badge/Knowledge-Linguistic-brightgreen) SG-Net: Syntax-Guided Machine Reading Comprehension, at AAAI 2020. [[pdf](https://arxiv.org/pdf/1908.05147.pdf)]
 + Incorporating Syntax and Frame Semantics in Neural Network for Machine Reading Comprehension, at COLING 2020. [[pdf](https://aclanthology.org/2020.coling-main.237/)]
 + Machine Reading Comprehension Using Structural Knowledge Graph-aware Network, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1602.pdf)]
-+ Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge, at EMNLP 2018. [[pdf](https://aclanthology.org/P18-1076.pdf)]
++ ![](https://img.shields.io/badge/Knowledge-Commonsense-purple) Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge, at EMNLP 2018. [[pdf](https://aclanthology.org/P18-1076.pdf)]
 
 ## Knowledge-Enhanced Question Answering
 - Instilling Type Knowledge in Language Models via Multi-Task QA, at NAACL findings 2022.[[pdf](https://arxiv.org/pdf/2204.13796v1.pdf)]
