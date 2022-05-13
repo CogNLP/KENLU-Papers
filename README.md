@@ -98,13 +98,18 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 - Dynamic Integration of Background Knowledge in Neural NLU Systems, on arXiv 2018. [[pdf](https://arxiv.org/pdf/2010.04389.pdf)]
 
 
-## External Knowledge Memory
+## External Memory and Retrieval Augmented PLMs
 
 + Mention Memory: incorporating textual knowledge into Transformers through entity mention attention, at ICLR 2022. [[pdf](https://openreview.net/pdf?id=OY1A8ejQgEX)]
 + A Simple but Effective Pluggable Entity Lookup Table for Pre-trained Language Models, at ACL 2022. [[pdf](https://arxiv.org/pdf/2202.13392.pdf)]
++ REALM: Retrieval-Augmented Language Model Pre-Training, on arXiv 2020. [[pdf](https://arxiv.org/pdf/2002.08909.pdf)]
+
 
 ## Knowledge Probe
 + Probing Pretrained Language Models for Lexical Semantics, at EMNLP 2020. \[[pdf](https://aclanthology.org/2020.emnlp-main.586.pdf)\]
++ How Much Knowledge Can You Pack Into the Parameters of a Language Model?, at EMNLP 2020. \[[pdf](https://aclanthology.org/2020.emnlp-main.437/)\]
++ Language Models as Knowledge Bases?, at EMNLP 2019. \[[pdf](https://aclanthology.org/D19-1250.pdf)\]
+
 
 
 ## Knowledge-Related Datasets
