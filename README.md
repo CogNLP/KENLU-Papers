@@ -97,6 +97,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 ## Knowledge-Enhanced Question Answering
 - Instilling Type Knowledge in Language Models via Multi-Task QA, at NAACL findings 2022. [[pdf](https://arxiv.org/pdf/2204.13796v1.pdf)]
 - ![](https://img.shields.io/badge/Survey-blue) Unstructured Text Enhanced Open-Domain Dialogue System: A Systematic Survey, at TOIS 2022. [[pdf](https://dl.acm.org/doi/abs/10.1145/3464377?casa_token=y4ngVLYx2WsAAAAA:mu1ibata4LRdqibfIQ0iyecpzA5gEdz7WJYoLOFebukQg7mPvU5GDTaZz9GfL7Ce5PuGgnY9_67sVQ)]
+- QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering, at NAACL 2021. [[pdf](https://aclanthology.org/2021.naacl-main.45.pdf)]
 - Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition, at EMNLP 2020. [[pdf](https://aclanthology.org/2020.emnlp-main.372.pdf)]
 - ![](https://img.shields.io/badge/Knowledge-Commonsense-purple) Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering, at AAAI 2020. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/6364)]
 - Knowledge-aware Attentive Neural Network for Ranking Question Answer Pairs, at SIGIR 2018. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3209978.3210081)]
