@@ -44,6 +44,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 - Incorporating Extra Knowledge to Enhance Word Embedding, at IJCAI 2021. \[[pdf](https://www.ijcai.org/proceedings/2020/0686.pdf)\]
 - ![](https://img.shields.io/badge/Entity_Representation-orange) LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention, at EMNLP 2020. \[[pdf](https://aclanthology.org/2020.emnlp-main.523.pdf)\]
 - ![](https://img.shields.io/badge/Entity_Representation-orange) Interpretable Entity Representations through Large-Scale Typing, at EMNLP findings 2020. \[[pdf](https://aclanthology.org/2020.findings-emnlp.54.pdf)\]
+- ![](https://img.shields.io/badge/Entity_Representation-orange) E-BERT: Efficient-Yet-Effective Entity Embeddings for BERT, at EMNLP findings 2020. \[[pdf](https://aclanthology.org/2020.findings-emnlp.71.pdf)\]
 - Breaking Through the 80% Glass Ceiling: Raising the State of the Art in Word Sense Disambiguation by Incorporating Knowledge Graph Information, at ACL 2020. [[pdf](https://aclanthology.org/2020.acl-main.255.pdf)]
 - ![](https://img.shields.io/badge/Knowledge-Linguistic-brightgreen) Semantics-Aware BERT for Language Understanding, at AAAI 2020. \[[pdf](https://arxiv.org/abs/1909.02209)\]
 - Knowledge Enhanced Contextual Word Representations, at EMNLP 2019. \[[pdf](https://aclanthology.org/D19-1005.pdf)\]
