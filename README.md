@@ -27,9 +27,10 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + ![](https://img.shields.io/badge/Survey-blue) Relational World Knowledge Representation in Contextual Language Models: A Review, at EMNLP 2021. \[[pdf](https://aclanthology.org/2021.emnlp-main.81.pdf)\]
 + ![](https://img.shields.io/badge/Survey-blue) Combining pre-trained language models and structured knowledge, on arXiv 2021. \[[pdf](https://arxiv.org/pdf/2101.12294.pdf)\]
 + ![](https://img.shields.io/badge/Survey-blue) Incorporating Extra Knowledge to Enhance Word Embedding, at IJCAI 2020. \[[pdf](https://dl.acm.org/doi/pdf/10.5555/3491440.3492126)\]
++ Metadata Shaping: A Simple Approach for Knowledge-Enhanced Language Models, at ACL 2022 findings. \[[pdf](https://aclanthology.org/2022.findings-acl.137.pdf)\]
 + ![](https://img.shields.io/badge/Knowledge-Linguistic-brightgreen) Dict-BERT: Enhancing Language Model Pre-training with Dictionary, on arXiv 2022. \[[pdf](https://arxiv.org/pdf/2110.06490.pdf)\]
 + K-ADAPTER: Infusing Knowledge into Pre-Trained Models with Adapters, at EMNLP 2021. \[[pdf](https://aclanthology.org/2021.findings-acl.121.pdf)\]
-+  ![](https://img.shields.io/badge/Knowledge-World-yellow)  KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation, at TACL 2021. \[[pdf](https://watermark.silverchair.com/tacl_a_00360.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAswwggLIBgkqhkiG9w0BBwagggK5MIICtQIBADCCAq4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMtMtrKwKiDSYsdiFFAgEQgIICf2Jm5LEeKelUFGKdPDgBZ7MLEo8AN3Q7AWgXeCQkCvOY1GWvND8D4eMG75qClzNId7IFKfG5mHytXSrTa7s3op86wBOV2BkRiptuM3WWWrMbX9dTed35hhZlYICCs66MnIhOy11_UWbowM-O-lZcxeR58ThAlkTdI3AmFesXh1EDl-vIyx9aMN7rbElb1TUJNxnf7IvqNhF9kKvejIyTmPhwWlSrKCRCTqH_OhoYPsHPcI1CPJCARf_dDF0qOfLWF6JtOoAckju8lZiXgPt1kRAumcZQU5GpS1VGL2CKjSZ8PnEUhdbh4NXfaZ4uHsAGNjqSVgfia_V3S4stdcEeonrLh-PYCCo3bApuzN7NklKA3FJPyQLmNoYqIuffzcuNOisPiWjLBNGisadvXgg9SXAP4bAWEisaHFifxe1pYzVUesyiH3R8yUutwaZBv4CvPkRSwDNlk5yT0LiwPaShuxg42qlsNOVAXdA0EkVAMeZQKsWaxZOEABAOEzebrVl2l862ctxcc3F31ElX8w7R-c4mhVUF8LCz2vScdXezt2are12Jf-yilJoWdfuJgt4HiaTI1M1TpLp9BeQoPr_OSSctzSknFNIO9oVRpuCBcnRbNiCT4g1EZvXZJjcSjsUlsdX85B6KB8-yNapBnk_Bri3ICzDyTN4YRsIAr_jOcuOJZWxridktd7UP2Faur5sgZQPz97AN2Py7XQrt-hH2wLWfD84w5-i5x5a7Qr426P1_3Ldaoj3mnFUOuq6G24mTfE0VzsVq4QomGFScjJQSSnYuySxOKbNGYb-5p_y_qLF71zKNP48Ay_d7IWeT1AR3KvaJRwTg3f9UdZvRSf3C3A)\]
++ ![](https://img.shields.io/badge/Knowledge-World-yellow)  KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation, at TACL 2021. \[[pdf](https://watermark.silverchair.com/tacl_a_00360.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAswwggLIBgkqhkiG9w0BBwagggK5MIICtQIBADCCAq4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMtMtrKwKiDSYsdiFFAgEQgIICf2Jm5LEeKelUFGKdPDgBZ7MLEo8AN3Q7AWgXeCQkCvOY1GWvND8D4eMG75qClzNId7IFKfG5mHytXSrTa7s3op86wBOV2BkRiptuM3WWWrMbX9dTed35hhZlYICCs66MnIhOy11_UWbowM-O-lZcxeR58ThAlkTdI3AmFesXh1EDl-vIyx9aMN7rbElb1TUJNxnf7IvqNhF9kKvejIyTmPhwWlSrKCRCTqH_OhoYPsHPcI1CPJCARf_dDF0qOfLWF6JtOoAckju8lZiXgPt1kRAumcZQU5GpS1VGL2CKjSZ8PnEUhdbh4NXfaZ4uHsAGNjqSVgfia_V3S4stdcEeonrLh-PYCCo3bApuzN7NklKA3FJPyQLmNoYqIuffzcuNOisPiWjLBNGisadvXgg9SXAP4bAWEisaHFifxe1pYzVUesyiH3R8yUutwaZBv4CvPkRSwDNlk5yT0LiwPaShuxg42qlsNOVAXdA0EkVAMeZQKsWaxZOEABAOEzebrVl2l862ctxcc3F31ElX8w7R-c4mhVUF8LCz2vScdXezt2are12Jf-yilJoWdfuJgt4HiaTI1M1TpLp9BeQoPr_OSSctzSknFNIO9oVRpuCBcnRbNiCT4g1EZvXZJjcSjsUlsdX85B6KB8-yNapBnk_Bri3ICzDyTN4YRsIAr_jOcuOJZWxridktd7UP2Faur5sgZQPz97AN2Py7XQrt-hH2wLWfD84w5-i5x5a7Qr426P1_3Ldaoj3mnFUOuq6G24mTfE0VzsVq4QomGFScjJQSSnYuySxOKbNGYb-5p_y_qLF71zKNP48Ay_d7IWeT1AR3KvaJRwTg3f9UdZvRSf3C3A)\]
 + **[Medical Knowledge]** SMedBERT: A Knowledge-Enhanced Pre-trained Language Model with Structured Semantics for Medical Text Mining, at ACL 2021. \[[pdf](https://aclanthology.org/2021.acl-long.457.pdf)\] 
 + ![](https://img.shields.io/badge/Knowledge-Linguistic-brightgreen) Syntax-BERT: Improving Pre-trained Transformers with Syntax Trees, at EACL 2021. \[[pdf](https://aclanthology.org/2021.eacl-main.262.pdf)\] 
 + ![](https://img.shields.io/badge/Knowledge-World-yellow) Entities as Experts: Sparse Memory Asccess with Entity Supervision, at EMNLP 2020. \[[pdf](https://aclanthology.org/2020.emnlp-main.400.pdf)\] 
@@ -37,6 +38,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + ![](https://img.shields.io/badge/Knowledge-Commonsense-purple) Align, Mask and Select: A Simple Method for Incorporating Commonsense Knowledge into Language Representation Models, on arXiv 2020. \[[pdf](https://arxiv.org/pdf/1908.06725.pdf)\]
 
 ## Knowledge-Enhanced Text Representation
+- Enhancing Natural Language Representation with Large-Scale Out-of-Domain Commonsense, at ACL findings 2022. \[[pdf](https://aclanthology.org/2022.findings-acl.138.pdf)\]
 - ![](https://img.shields.io/badge/Entity_Representation-orange) mLUKE: The Power of Entity Representations in Multilingual Pretrained Language Models, at ACL 2022. \[[pdf](https://arxiv.org/pdf/2110.08151.pdf)\]
 - Infusing Finetuning with Semantic Dependencies, at TACL 2021. \[[pdf](https://watermark.silverchair.com/tacl_a_00363.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsowggLGBgkqhkiG9w0BBwagggK3MIICswIBADCCAqwGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM1ZfV-8kcvj_3eUa2AgEQgIICfV-aC25MhnX6CA1RZETkcpeu_tRPQttd_5mq542f-SzNa2yFe4ElTYpv-trg96F86ib8tri4EeWeNm6e4P85Kzf69gD_Oj2qtFD438MuEa_Nk_NfgkM-AxO0O296Ro0Yhyr01z9oAG2nf7SaNq2298MEDjIkUcLb32V07IccUCcHRI0lXY4QmDyYWz4LazkXOVa3zZ4bLCxR7Fky-CiDI6jDTFWFf8bEBg9Ik_srp1CzjcQfkymXXevwdWGXAqxUvF8LBJFCm0ejDEePueN8lHoF4AYPd9JvEqr2WUGnAm1aDxsPfYKB-6s3s4Q_AVLqH4GzQEN0XJo9uPdeQn393_zG1zcJW05eXl51HqhxxplvR_fwmm8Rblajgpu-NwuqIy_Nm1rerobdwV7MbqsnTXQSIPymD82dfu_v0X9fJ2sZ6OkTSbijoiRtfnCgG0aHVGC2XOGAaK45U1XfUuvjqjMjWIgGXifRCWjRBLIoqlBOOd7km4BKaoLAKHj9sBr5-1XxTPzmZXN4VMvq52pxNWqQ33s1fPciQuTatioRC3g6uPOgWG-Hr9_mp8SvBvCQeY_idNMeY5kbgZmxrIrpO675LWMPSAwOMxDP5GT4LcWRDaUi7vDUwpqLQwYwYuzbpoaqXgCXtD5RvRWSBSHK8hpso1j8dY-nWsdjDfrM90WC7c8EKcPAylELBqzvOgk2dtssp2wkoXTozFsEjkTg0treXXt5jhogJ0CNe6NKuRo9E72dbou9H281W-WVDFmZTU5VCAKUcLdfY7elkaSyY5QlBM4StOEWAIdYPLQcu6Y6Z0x2S_odw9KmDQS1mogkMKr3JAXLtMwQionihYk)\]
 - ![](https://img.shields.io/badge/Entity_Representation-orange) Biomedical Interpretable Entity Representations, at ACL findings 2021. \[[pdf](https://aclanthology.org/2021.findings-acl.311.pdf)\]
@@ -54,6 +56,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 ## Knowledge-Enhanced Text Classification
 
 + Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classification, at ACL 2022. [[pdf](https://arxiv.org/pdf/2108.02035.pdf)]
++ Pre-training and Fine-tuning Neural Topic Model: A Simple yet Effective Approach to Incorporating External Knowledge, at ACL 2022. [[pdf](https://aclanthology.org/2022.acl-long.413.pdf)]
 + KenMeSH: Knowledge-enhanced End-to-end Biomedical Text Labelling, on arXiv 2022. [[pdf](https://arxiv.org/pdf/2203.06835.pdf)]
 + KESA: A Knowledge Enhanced Approach For Sentiment Analysis, on arXiv 2022. \[[pdf](https://arxiv.org/pdf/2202.12093.pdf)\]
 + ![](https://img.shields.io/badge/Knowledge-World-yellow) Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.62.pdf)] [[code](https://github.com/BUPT-GAMMA/CompareNet_FakeNewsDetection)]
@@ -64,6 +67,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + KinGDOM: Knowledge-Guided DOMain adaptation for sentiment analysis, at ACL 2020. [[pdf](https://aclanthology.org/2020.acl-main.292.pdf)]
 
 ## Knowledge-Enhanced Information Extraction
+- Pretrained Knowledge Base Embeddings for improved Sentential Relation Extraction, at ACL srw 2022. [[pdf](https://aclanthology.org/2022.acl-srw.29.pdf)] 
 - Enhanced Language Representation with Label Knowledge for Span Extraction, at EMNLP 2021. [[pdf](https://aclanthology.org/2021.emnlp-main.379.pdf)] 
 - Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.376.pdf)]
 - Fine-grained Information Extraction from Biomedical Literature based on Knowledge-enriched Abstract Meaning Representation, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.489.pdf)]
@@ -71,12 +75,12 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 - Lexicon Enhanced Chinese Sequence Labeling Using BERT Adapter, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.454v2.pdf)]
 - ![](https://img.shields.io/badge/Event_Detection-red) Adaptive Knowledge-Enhanced Bayesian Meta-Learning for Few-shot Event Detection, at ACL findings 2021. [[pdf](https://aclanthology.org/2021.findings-acl.214.pdf)]
 - ![](https://img.shields.io/badge/Named_Entity_Recognition-red) Knowledge-aware Named Entity Recognition with Alleviating Heterogeneity, at AAAI 2021. [[pdf](https://www.aaai.org/AAAI21Papers/AAAI-9155.NieB.pdf)]
-- Metadata Shaping: Natural Language Annotations for the Tail, on arXiv 2021. [[pdf](https://arxiv.org/pdf/2110.08430.pdf)]
 - **[Event Causality Identification]** Knowledge Enhanced Event Causality Identification with Mention Masking Generalizations, at IJCAI 2020. [[pdf](https://www.ijcai.org/proceedings/2020/0499.pdf)] 
 - **[Named Entity Recognition]** Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1396.pdf)] 
 - **[Relation Extraction]** Improving Relation Extraction with Knowledge-attention, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1022.pdf)] 
 
 ## Knowledge-Enhanced Semantics and Syntax Parsing
+- LexSubCon: Integrating Knowledge from Lexical Resources into Contextual Embeddings for Lexical Substitution, at ACL 2022. [[pdf](https://aclanthology.org/2022.acl-long.87.pdf)]
 - A Unified Syntax-aware Framework for Semantic Role Labeling, at EMNLP 2018. [[pdf](https://aclanthology.org/D18-1262.pdf)]
 
 
@@ -89,7 +93,8 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 - **[Recommender System]** DKN: Deep Knowledge-Aware Network for News Recommendation, at WWW 2018. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3178876.3186175)]
 
 ## Knowledge-Enhanced Machine Reading Comprehension
-+  ![](https://img.shields.io/badge/Knowledge-Linguistic-brightgreen) SG-Net: Syntax-Guided Machine Reading Comprehension, at AAAI 2020. [[pdf](https://arxiv.org/pdf/1908.05147.pdf)]
++ Improving Machine Reading Comprehension with Contextualized Commonsense Knowledge, at ACL 2022. [[pdf](https://aclanthology.org/2022.acl-long.598.pdf)]
++ ![](https://img.shields.io/badge/Knowledge-Linguistic-brightgreen) SG-Net: Syntax-Guided Machine Reading Comprehension, at AAAI 2020. [[pdf](https://arxiv.org/pdf/1908.05147.pdf)]
 + Incorporating Syntax and Frame Semantics in Neural Network for Machine Reading Comprehension, at COLING 2020. [[pdf](https://aclanthology.org/2020.coling-main.237/)]
 + Machine Reading Comprehension Using Structural Knowledge Graph-aware Network, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1602.pdf)]
 + ![](https://img.shields.io/badge/Knowledge-Commonsense-purple) Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge, at EMNLP 2018. [[pdf](https://aclanthology.org/P18-1076.pdf)]
@@ -104,7 +109,8 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 - Dynamic Integration of Background Knowledge in Neural NLU Systems, on arXiv 2018. [[pdf](https://arxiv.org/pdf/2010.04389.pdf)]
 - An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge, at EMNLP 2017. [[pdf](https://aclanthology.org/P17-1021.pdf)]
 
-## Knowledge-Enhanced Reasoning
+## Knowledge-Enhanced Commonsense Reasoning
+- Knowledge-Augmented Language Models for Cause-Effect Relation Classification, at CSRR 2022. [[pdf](https://aclanthology.org/2022.csrr-1.6.pdf)]
 - KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1282.pdf)]
 
 ## Memory and Retrieval Augmented PLMs
