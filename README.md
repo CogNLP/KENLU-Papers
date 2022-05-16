@@ -18,7 +18,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + A Primer in BERTology: What We Know About How BERT Works, at TACL 2020. \[[pdf](https://watermark.silverchair.com/tacl_a_00349.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsowggLGBgkqhkiG9w0BBwagggK3MIICswIBADCCAqwGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMwVFlFOPJnEtispYgAgEQgIICfW5LKhjUj8l71T16m9fhF8VSzMacFOPRdm00k2KBdpYkVpGAI8pGELEpSMatA_WHwzSiw3iwBSmcLaxqnHyxgsKMOiMu4VoakEUQJddgaLx_5l62e4BaksUPSaofHqo9RFMTq9pQJg3lPxiQhtn0xnyflTyR90kgq0gx4NlRWHxzYDHMvyGrsRlNGrmHDjcNTJcrN-vD9ER8Kw1dK9_BL9SLk4zb10cbfLLEAS4O5wQI6pSGml5WkRsbzHlej2GImj0wcoyPS9eTOHwg1w_yMj6h5Ey_e-18dN-g2CCwlNAtTefg9Cv-9O_CcQr9gBC7hn9scbUIcs2uemXtAslTiI2FiVDdcbqQ_cG44H5E3jRVVbGtMLkaqnqnt2D4APD98nWU0W9xUYzQsQ7rDKX_Ee5ShirJvSAFr_ZKFWxwI02twvFw8aWfGv89I5kkzmK6T2_QSQsNhSksZWCGvqDBIwz_MxiG-htsvIyP9rWlj2j4djGuv2QBhfzByIyO3D_ARkHG8FvxY-IeBiDhlP2e3i2eint_6-ss8oowDiE0XhllNa_CC-zKiCIeP8CixK2V77SmRBnV-ORYgp5A2Cjkjztmrt8YOdza29bdyiBCuYrg40uXoRmu26RVm3PizqNncMVHApRU6K5Glhhb3LDRlxRF_dOsyWiUxqm2EpbD4smJ-9htWm2RaHHkP_W5_lSmNuoEfLhsLlSImhMzMr0gL8lnZ3XBXJJNbMf2CWULUENAYt1-JHS_BB_-w8QujKxMp87oe9YPik92hueP25Mx82r_moEmdXtzswkqMleHBmic_PVyh8rGaV0Fb94EibAAHaB8s9rXdFQTIjfc1h8)\]
 
 ## Tutorials
-- Knowledge-Augmented Methods for Natural Language Processing, on ACL 2022. [[pdf](https://aclanthology.org/2022.acl-tutorials.3.pdf)]
+- Knowledge-Augmented Methods for Natural Language Processing, at ACL 2022. [[pdf](https://aclanthology.org/2022.acl-tutorials.3.pdf)]
 
 ## KENLU
 - ![](https://img.shields.io/badge/Knowledge-World-yellow) Does Knowledge Help General NLU? An Empirical Study, on arXiv 2021. [[pdf](https://arxiv.org/pdf/2109.00563.pdf)]
