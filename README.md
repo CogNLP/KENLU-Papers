@@ -70,17 +70,17 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + KinGDOM: Knowledge-Guided DOMain adaptation for sentiment analysis, at ACL 2020. [[pdf](https://aclanthology.org/2020.acl-main.292.pdf)]
 
 ## Knowledge-Enhanced Information Extraction
-- Pretrained Knowledge Base Embeddings for improved Sentential Relation Extraction, at ACL srw 2022. [[pdf](https://aclanthology.org/2022.acl-srw.29.pdf)] 
+- ![](https://img.shields.io/badge/Relation_Extraction-red) Pretrained Knowledge Base Embeddings for improved Sentential Relation Extraction, at ACL srw 2022. [[pdf](https://aclanthology.org/2022.acl-srw.29.pdf)] 
 - Enhanced Language Representation with Label Knowledge for Span Extraction, at EMNLP 2021. [[pdf](https://aclanthology.org/2021.emnlp-main.379.pdf)] 
-- Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.376.pdf)]
+- ![](https://img.shields.io/badge/Event_Causality_Identification-red) Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.376.pdf)]
 - Fine-grained Information Extraction from Biomedical Literature based on Knowledge-enriched Abstract Meaning Representation, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.489.pdf)]
 - Joint Biomedical Entity and Relation Extraction with Knowledge-Enhanced Collective Inference, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.488.pdf)]
 - Lexicon Enhanced Chinese Sequence Labeling Using BERT Adapter, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.454v2.pdf)]
 - ![](https://img.shields.io/badge/Event_Detection-red) Adaptive Knowledge-Enhanced Bayesian Meta-Learning for Few-shot Event Detection, at ACL findings 2021. [[pdf](https://aclanthology.org/2021.findings-acl.214.pdf)]
 - ![](https://img.shields.io/badge/Named_Entity_Recognition-red) Knowledge-aware Named Entity Recognition with Alleviating Heterogeneity, at AAAI 2021. [[pdf](https://www.aaai.org/AAAI21Papers/AAAI-9155.NieB.pdf)]
-- **[Event Causality Identification]** Knowledge Enhanced Event Causality Identification with Mention Masking Generalizations, at IJCAI 2020. [[pdf](https://www.ijcai.org/proceedings/2020/0499.pdf)] 
-- **[Named Entity Recognition]** Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1396.pdf)] 
-- **[Relation Extraction]** Improving Relation Extraction with Knowledge-attention, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1022.pdf)] 
+- ![](https://img.shields.io/badge/Event_Causality_Identification-red) Knowledge Enhanced Event Causality Identification with Mention Masking Generalizations, at IJCAI 2020. [[pdf](https://www.ijcai.org/proceedings/2020/0499.pdf)] 
+- ![](https://img.shields.io/badge/Named_Entity_Recognition-red) Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1396.pdf)] 
+- ![](https://img.shields.io/badge/Relation_Extraction-red) Improving Relation Extraction with Knowledge-attention, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1022.pdf)] 
 
 ## Knowledge-Enhanced Semantics and Syntax Parsing
 - LexSubCon: Integrating Knowledge from Lexical Resources into Contextual Embeddings for Lexical Substitution, at ACL 2022. [[pdf](https://aclanthology.org/2022.acl-long.87.pdf)]
