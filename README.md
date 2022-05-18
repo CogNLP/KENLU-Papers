@@ -41,7 +41,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + ![](https://img.shields.io/badge/Knowledge-Commonsense-purple) Align, Mask and Select: A Simple Method for Incorporating Commonsense Knowledge into Language Representation Models, on arXiv 2020. \[[pdf](https://arxiv.org/pdf/1908.06725.pdf)\]
 
 ## Knowledge-Enhanced Text Representation
-- Enhancing Natural Language Representation with Large-Scale Out-of-Domain Commonsense, at ACL findings 2022. \[[pdf](https://aclanthology.org/2022.findings-acl.138.pdf)\]
+- ![](https://img.shields.io/badge/Knowledge-Commonsense-purple) Enhancing Natural Language Representation with Large-Scale Out-of-Domain Commonsense, at ACL findings 2022. \[[pdf](https://aclanthology.org/2022.findings-acl.138.pdf)\]
 - ![](https://img.shields.io/badge/Entity_Representation-orange) mLUKE: The Power of Entity Representations in Multilingual Pretrained Language Models, at ACL 2022. \[[pdf](https://arxiv.org/pdf/2110.08151.pdf)\]
 - Infusing Finetuning with Semantic Dependencies, at TACL 2021. \[[pdf](https://watermark.silverchair.com/tacl_a_00363.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsowggLGBgkqhkiG9w0BBwagggK3MIICswIBADCCAqwGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM1ZfV-8kcvj_3eUa2AgEQgIICfV-aC25MhnX6CA1RZETkcpeu_tRPQttd_5mq542f-SzNa2yFe4ElTYpv-trg96F86ib8tri4EeWeNm6e4P85Kzf69gD_Oj2qtFD438MuEa_Nk_NfgkM-AxO0O296Ro0Yhyr01z9oAG2nf7SaNq2298MEDjIkUcLb32V07IccUCcHRI0lXY4QmDyYWz4LazkXOVa3zZ4bLCxR7Fky-CiDI6jDTFWFf8bEBg9Ik_srp1CzjcQfkymXXevwdWGXAqxUvF8LBJFCm0ejDEePueN8lHoF4AYPd9JvEqr2WUGnAm1aDxsPfYKB-6s3s4Q_AVLqH4GzQEN0XJo9uPdeQn393_zG1zcJW05eXl51HqhxxplvR_fwmm8Rblajgpu-NwuqIy_Nm1rerobdwV7MbqsnTXQSIPymD82dfu_v0X9fJ2sZ6OkTSbijoiRtfnCgG0aHVGC2XOGAaK45U1XfUuvjqjMjWIgGXifRCWjRBLIoqlBOOd7km4BKaoLAKHj9sBr5-1XxTPzmZXN4VMvq52pxNWqQ33s1fPciQuTatioRC3g6uPOgWG-Hr9_mp8SvBvCQeY_idNMeY5kbgZmxrIrpO675LWMPSAwOMxDP5GT4LcWRDaUi7vDUwpqLQwYwYuzbpoaqXgCXtD5RvRWSBSHK8hpso1j8dY-nWsdjDfrM90WC7c8EKcPAylELBqzvOgk2dtssp2wkoXTozFsEjkTg0treXXt5jhogJ0CNe6NKuRo9E72dbou9H281W-WVDFmZTU5VCAKUcLdfY7elkaSyY5QlBM4StOEWAIdYPLQcu6Y6Z0x2S_odw9KmDQS1mogkMKr3JAXLtMwQionihYk)\]
 - ![](https://img.shields.io/badge/Entity_Representation-orange) Biomedical Interpretable Entity Representations, at ACL findings 2021. \[[pdf](https://aclanthology.org/2021.findings-acl.311.pdf)\]
@@ -96,7 +96,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 - **[Recommender System]** DKN: Deep Knowledge-Aware Network for News Recommendation, at WWW 2018. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3178876.3186175)]
 
 ## Knowledge-Enhanced Machine Reading Comprehension
-+ Improving Machine Reading Comprehension with Contextualized Commonsense Knowledge, at ACL 2022. [[pdf](https://aclanthology.org/2022.acl-long.598.pdf)]
++ ![](https://img.shields.io/badge/Knowledge-Commonsense-purple) Improving Machine Reading Comprehension with Contextualized Commonsense Knowledge, at ACL 2022. [[pdf](https://aclanthology.org/2022.acl-long.598.pdf)]
 + ![](https://img.shields.io/badge/Knowledge-Linguistic-brightgreen) SG-Net: Syntax-Guided Machine Reading Comprehension, at AAAI 2020. [[pdf](https://arxiv.org/pdf/1908.05147.pdf)]
 + Incorporating Syntax and Frame Semantics in Neural Network for Machine Reading Comprehension, at COLING 2020. [[pdf](https://aclanthology.org/2020.coling-main.237/)]
 + Machine Reading Comprehension Using Structural Knowledge Graph-aware Network, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1602.pdf)]
