@@ -31,7 +31,8 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + ![](https://img.shields.io/badge/Survey-blue) Combining pre-trained language models and structured knowledge, on arXiv 2021. \[[pdf](https://arxiv.org/pdf/2101.12294.pdf)\]
 + ![](https://img.shields.io/badge/Survey-blue) Incorporating Extra Knowledge to Enhance Word Embedding, at IJCAI 2020. \[[pdf](https://dl.acm.org/doi/pdf/10.5555/3491440.3492126)\]
 + Metadata Shaping: A Simple Approach for Knowledge-Enhanced Language Models, at ACL 2022 findings. \[[pdf](https://aclanthology.org/2022.findings-acl.137.pdf)\]
-+ ![](https://img.shields.io/badge/Knowledge-Linguistic-brightgreen) Dict-BERT: Enhancing Language Model Pre-training with Dictionary, on arXiv 2022. \[[pdf](https://arxiv.org/pdf/2110.06490.pdf)\]
++ ![](https://img.shields.io/badge/Knowledge-Linguistic-brightgreen) Dict-BERT: Enhancing Language Model Pre-training with Dictionary, on ACL 2022. \[[pdf](https://arxiv.org/pdf/2110.06490.pdf)\]
++ JAKET: Joint Pre-training of Knowledge Graph and Language Understanding, at AAAI 2022. \[[pdf](https://www.aaai.org/AAAI22Papers/AAAI-4850.YuD.pdf)\] 
 + K-ADAPTER: Infusing Knowledge into Pre-Trained Models with Adapters, at EMNLP 2021. \[[pdf](https://aclanthology.org/2021.findings-acl.121.pdf)\]
 + ![](https://img.shields.io/badge/Knowledge-World-yellow)  KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation, at TACL 2021. \[[pdf](https://watermark.silverchair.com/tacl_a_00360.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAswwggLIBgkqhkiG9w0BBwagggK5MIICtQIBADCCAq4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMtMtrKwKiDSYsdiFFAgEQgIICf2Jm5LEeKelUFGKdPDgBZ7MLEo8AN3Q7AWgXeCQkCvOY1GWvND8D4eMG75qClzNId7IFKfG5mHytXSrTa7s3op86wBOV2BkRiptuM3WWWrMbX9dTed35hhZlYICCs66MnIhOy11_UWbowM-O-lZcxeR58ThAlkTdI3AmFesXh1EDl-vIyx9aMN7rbElb1TUJNxnf7IvqNhF9kKvejIyTmPhwWlSrKCRCTqH_OhoYPsHPcI1CPJCARf_dDF0qOfLWF6JtOoAckju8lZiXgPt1kRAumcZQU5GpS1VGL2CKjSZ8PnEUhdbh4NXfaZ4uHsAGNjqSVgfia_V3S4stdcEeonrLh-PYCCo3bApuzN7NklKA3FJPyQLmNoYqIuffzcuNOisPiWjLBNGisadvXgg9SXAP4bAWEisaHFifxe1pYzVUesyiH3R8yUutwaZBv4CvPkRSwDNlk5yT0LiwPaShuxg42qlsNOVAXdA0EkVAMeZQKsWaxZOEABAOEzebrVl2l862ctxcc3F31ElX8w7R-c4mhVUF8LCz2vScdXezt2are12Jf-yilJoWdfuJgt4HiaTI1M1TpLp9BeQoPr_OSSctzSknFNIO9oVRpuCBcnRbNiCT4g1EZvXZJjcSjsUlsdX85B6KB8-yNapBnk_Bri3ICzDyTN4YRsIAr_jOcuOJZWxridktd7UP2Faur5sgZQPz97AN2Py7XQrt-hH2wLWfD84w5-i5x5a7Qr426P1_3Ldaoj3mnFUOuq6G24mTfE0VzsVq4QomGFScjJQSSnYuySxOKbNGYb-5p_y_qLF71zKNP48Ay_d7IWeT1AR3KvaJRwTg3f9UdZvRSf3C3A)\]
 + **[Medical Knowledge]** SMedBERT: A Knowledge-Enhanced Pre-trained Language Model with Structured Semantics for Medical Text Mining, at ACL 2021. \[[pdf](https://aclanthology.org/2021.acl-long.457.pdf)\] 
@@ -105,6 +106,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 ## Knowledge-Enhanced Question Answering
 - Instilling Type Knowledge in Language Models via Multi-Task QA, at NAACL findings 2022. [[pdf](https://arxiv.org/pdf/2204.13796v1.pdf)]
 - ![](https://img.shields.io/badge/Survey-blue) Unstructured Text Enhanced Open-Domain Dialogue System: A Systematic Survey, at TOIS 2022. [[pdf](https://dl.acm.org/doi/abs/10.1145/3464377?casa_token=y4ngVLYx2WsAAAAA:mu1ibata4LRdqibfIQ0iyecpzA5gEdz7WJYoLOFebukQg7mPvU5GDTaZz9GfL7Ce5PuGgnY9_67sVQ)]
+- Fusing Context Into Knowledge Graph for Commonsense Question Answering, at ACL findings 2021. [[pdf](https://aclanthology.org/2021.findings-acl.102.pdf)]
 - QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering, at NAACL 2021. [[pdf](https://aclanthology.org/2021.naacl-main.45.pdf)]
 - Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition, at EMNLP 2020. [[pdf](https://aclanthology.org/2020.emnlp-main.372.pdf)]
 - ![](https://img.shields.io/badge/Knowledge-Commonsense-purple) Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering, at AAAI 2020. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/6364)]
@@ -113,6 +115,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 - An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge, at EMNLP 2017. [[pdf](https://aclanthology.org/P17-1021.pdf)]
 
 ## Knowledge-Enhanced Commonsense Reasoning
+- Diversifying Content Generation for Commonsense Reasoning with Mixture of Knowledge Graph Experts, at ACL findings 2022. [[pdf](https://aclanthology.org/2022.findings-acl.149.pdf)]
 - Knowledge-Augmented Language Models for Cause-Effect Relation Classification, at CSRR 2022. [[pdf](https://aclanthology.org/2022.csrr-1.6.pdf)]
 - KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1282.pdf)]
 
