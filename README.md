@@ -24,6 +24,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 - ![](https://img.shields.io/badge/Knowledge-World-yellow) Does Knowledge Help General NLU? An Empirical Study, on arXiv 2021. [[pdf](https://arxiv.org/pdf/2109.00563.pdf)]
 
 ## Knowledge-Enhanced Pre-training
++ ![](https://img.shields.io/badge/Survey-blue) A Survey of Knowledge-Intensive NLP with Pre-Trained Language Models, on arXiv 2022. \[[pdf](https://arxiv.org/pdf/2202.08772.pdf)\]
 + ![](https://img.shields.io/badge/Survey-blue) A Survey of Knowledge Enhanced Pre-trained Models, on arXiv 2022. \[[pdf](https://arxiv.org/pdf/2110.00269.pdf)\]
 + ![](https://img.shields.io/badge/Survey-blue) Knowledge Enhanced Pretrained Language Models: A Compreshensive Survey, on arXiv 2021. \[[pdf](https://arxiv.org/pdf/2110.08455.pdf)\]
 + ![](https://img.shields.io/badge/Survey-blue) Relational World Knowledge Representation in Contextual Language Models: A Review, at EMNLP 2021. \[[pdf](https://aclanthology.org/2021.emnlp-main.81.pdf)\]
@@ -108,6 +109,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + ![](https://img.shields.io/badge/Knowledge-Commonsense-purple) Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge, at EMNLP 2018. [[pdf](https://aclanthology.org/P18-1076.pdf)]
 
 ## Knowledge-Enhanced Question Answering
+- GreaseLM: Graph REASoning Enhanced Language Models for Question Answering, at ICLR 2022. [[pdf](https://openreview.net/pdf?id=41e9o6cQPj)]
 - Instilling Type Knowledge in Language Models via Multi-Task QA, at NAACL findings 2022. [[pdf](https://arxiv.org/pdf/2204.13796v1.pdf)]
 - ![](https://img.shields.io/badge/Survey-blue) Unstructured Text Enhanced Open-Domain Dialogue System: A Systematic Survey, at TOIS 2022. [[pdf](https://dl.acm.org/doi/abs/10.1145/3464377?casa_token=y4ngVLYx2WsAAAAA:mu1ibata4LRdqibfIQ0iyecpzA5gEdz7WJYoLOFebukQg7mPvU5GDTaZz9GfL7Ce5PuGgnY9_67sVQ)]
 - Fusing Context Into Knowledge Graph for Commonsense Question Answering, at ACL findings 2021. [[pdf](https://aclanthology.org/2021.findings-acl.102.pdf)]
