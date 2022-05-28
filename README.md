@@ -69,6 +69,8 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 + Hierarchical Heterogeneous Graph Representation Learning for Short Text Classification, at EMNLP 2021. [[pdf](https://aclanthology.org/2021.emnlp-main.247.pdf)]
 + Knowledge-Guided Paraphrase Identification, at EMNLP findings 2021. [[pdf](https://aclanthology.org/2021.findings-emnlp.72.pdf)]
 + KinGDOM: Knowledge-Guided DOMain adaptation for sentiment analysis, at ACL 2020. [[pdf](https://aclanthology.org/2020.acl-main.292.pdf)]
++ GEAR: Graph-based Evidence Aggregating and Reasoning for Fact Verification, at ACL 2019. [[pdf](https://aclanthology.org/P19-1085.pdf)]
+
 
 ## Knowledge-Enhanced Information Extraction
 - ![](https://img.shields.io/badge/Relation_Extraction-red) Pretrained Knowledge Base Embeddings for improved Sentential Relation Extraction, at ACL srw 2022. [[pdf](https://aclanthology.org/2022.acl-srw.29.pdf)] 
@@ -136,6 +138,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 ## Knowledge-Related Datasets
 
 + CREAK: A Dataset for Commonsense Reasoning over Entity Knowledge, at NeurIPS 2021. \[[pdf](https://openreview.net/pdf?id=mbW_GT3ZN-)\]
++ KILT: a Benchmark for Knowledge Intensive Language Tasks, at NAACL 2021. \[[pdf](https://aclanthology.org/2021.naacl-main.200.pdf)\]
 + GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding, at EMNLP 2018. \[[pdf](https://aclanthology.org/W18-5446.pdf)\]
 
 
