@@ -21,6 +21,7 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 - Knowledge-Augmented Methods for Natural Language Processing, at ACL 2022. [[pdf](https://aclanthology.org/2022.acl-tutorials.3.pdf)]
 
 ## KENLU
+- DKPLM: Decomposable Knowledge-enhanced Pre-trained Language Model for Natural Language Understanding, at AAAI 2022. [[pdf](https://arxiv.org/pdf/2112.01047.pdf)]
 - ![](https://img.shields.io/badge/Knowledge-World-yellow) Does Knowledge Help General NLU? An Empirical Study, on arXiv 2021. [[pdf](https://arxiv.org/pdf/2109.00563.pdf)]
 
 ## Knowledge-Enhanced Pre-training
