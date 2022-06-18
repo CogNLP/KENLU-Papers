@@ -84,11 +84,18 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 - Fine-grained Information Extraction from Biomedical Literature based on Knowledge-enriched Abstract Meaning Representation, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.489.pdf)]
 - Joint Biomedical Entity and Relation Extraction with Knowledge-Enhanced Collective Inference, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.488.pdf)]
 - Lexicon Enhanced Chinese Sequence Labeling Using BERT Adapter, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-long.454v2.pdf)]
+- ![](https://img.shields.io/badge/Relation_Extraction-red) Entity Concept-enhanced Few-shot Relation Extraction, at ACL 2021. [[pdf](https://aclanthology.org/2021.acl-short.124.pdf)]
 - ![](https://img.shields.io/badge/Event_Detection-red) Adaptive Knowledge-Enhanced Bayesian Meta-Learning for Few-shot Event Detection, at ACL findings 2021. [[pdf](https://aclanthology.org/2021.findings-acl.214.pdf)]
 - ![](https://img.shields.io/badge/Named_Entity_Recognition-red) Knowledge-aware Named Entity Recognition with Alleviating Heterogeneity, at AAAI 2021. [[pdf](https://www.aaai.org/AAAI21Papers/AAAI-9155.NieB.pdf)]
+- ![](https://img.shields.io/badge/Relation_Extraction-red) Multi-view Inference for Relation Extraction with Uncertain Knowledge, at AAAI 2021. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/17563)]
+- ![](https://img.shields.io/badge/Knowledge-Linguistic-brightgreen) Do Syntax Trees Help Pre-trained Transformers Extract Information?, at EACL 2021. [[pdf](https://aclanthology.org/2021.eacl-main.228.pdf)]
 - ![](https://img.shields.io/badge/Event_Causality_Identification-red) Knowledge Enhanced Event Causality Identification with Mention Masking Generalizations, at IJCAI 2020. [[pdf](https://www.ijcai.org/proceedings/2020/0499.pdf)] 
-- ![](https://img.shields.io/badge/Named_Entity_Recognition-red) Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1396.pdf)] 
+- ![](https://img.shields.io/badge/Entity_Disambiguation-red) Knowledge-Enhanced Named Entity Disambiguation for Short Text, at AACL 2020. [[pdf](https://aclanthology.org/2020.aacl-main.74.pdf)] 
+- ![](https://img.shields.io/badge/Knowledge-Linguistic-brightgreen) Chinese Relation Extraction with Multi-Grained Information and External Linguistic Knowledge, at ACL 2019. [[pdf](https://aclanthology.org/P19-1430.pdf)] 
+- ![](https://img.shields.io/badge/Knowledge-Linguistic-brightgreen) ![](https://img.shields.io/badge/Named_Entity_Recognition-red) Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1396.pdf)] 
 - ![](https://img.shields.io/badge/Relation_Extraction-red) Improving Relation Extraction with Knowledge-attention, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1022.pdf)] 
+- ![](https://img.shields.io/badge/Knowledge-Linguistic-brightgreen) Dependency-Guided LSTM-CRF for Named Entity Recognition, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1399.pdf)] 
+
 
 ## Knowledge-Enhanced Semantics and Syntax Parsing
 - LexSubCon: Integrating Knowledge from Lexical Resources into Contextual Embeddings for Lexical Substitution, at ACL 2022. [[pdf](https://aclanthology.org/2022.acl-long.87.pdf)]
