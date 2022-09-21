@@ -95,6 +95,8 @@ An awesome repository for knowledge-enhanced natural language understanding reso
 - ![](https://img.shields.io/badge/Knowledge-Linguistic-brightgreen) ![](https://img.shields.io/badge/Named_Entity_Recognition-red) Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1396.pdf)] 
 - ![](https://img.shields.io/badge/Relation_Extraction-red) Improving Relation Extraction with Knowledge-attention, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1022.pdf)] 
 - ![](https://img.shields.io/badge/Knowledge-Linguistic-brightgreen) Dependency-Guided LSTM-CRF for Named Entity Recognition, at EMNLP 2019. [[pdf](https://aclanthology.org/D19-1399.pdf)] 
+- ![](https://img.shields.io/badge/Relation_Extraction-red) KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction, at WWW 2022.[[pdf](https://dl.acm.org/doi/abs/10.1145/3485447.3511998)]
+- ![](https://img.shields.io/badge/Relation_Extraction-red) Relation Extraction as Open-book Examination: Retrieval-enhanced Prompt Tuning, at SIGIR 2022. [[pdf](https://dl.acm.org/doi/abs/10.1145/3477495.3531746)]
 
 
 ## Knowledge-Enhanced Semantics and Syntax Parsing
